@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TNT series" tvg-logo="https://goo.gl/2ZBWuk?" group-title="SERIADOS",TNT SERIES [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/3884.m3u8
+#EXTINF:-1 tvg-id="TNT series" tvg-logo="https://goo.gl/2ZBWuk?" group-title="SERIADOS",TNT SERIES [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/674.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://goo.gl/13gfQq?" group-title="SERIADOS",FOX [FHD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/7701.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://goo.gl/13gfQq?" group-title="SERIADOS",FOX [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4121.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://goo.gl/13gfQq?" group-title="SERIADOS",FOX [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4122.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="SERIADOS",FOX PREMIUM 1 [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4604.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-logo="https://goo.gl/RUDViH?" group-title="SERIADOS",FOX PREMIUM 2 [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4118.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://goo.gl/RnqXjY?" group-title="SERIADOS",FX [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4110.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://goo.gl/RnqXjY?" group-title="SERIADOS",FX [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4111.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://goo.gl/6Y4LUI?" group-title="SERIADOS",TBS [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/3903.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://goo.gl/6Y4LUI?" group-title="SERIADOS",TBS [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/3904.m3u8
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://goo.gl/K8V00r?" group-title="SERIADOS",UNIVERSAL CHANNEL [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/3871.m3u8
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://goo.gl/K8V00r?" group-title="SERIADOS",UNIVERSAL CHANNEL [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/3872.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://goo.gl/u2Eh6h?" group-title="SERIADOS",Warner Channel [FHD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/11172.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://goo.gl/u2Eh6h?" group-title="SERIADOS",Warner Channel [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4617.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://goo.gl/u2Eh6h?" group-title="SERIADOS",Warner Channel [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4618.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://goo.gl/7GDv0O?" group-title="SERIADOS",COMEDY CENTRAL [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4603.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://goo.gl/7GDv0O?" group-title="SERIADOS",COMEDY CENTRAL [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/629.m3u8
+#EXTINF:0 tvg-id="Fox Life" tvg-logo="https://goo.gl/STGSLK?" group-title="SERIADOS",FOX LIFE [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4119.m3u8
+#EXTINF:0 tvg-id="Syfy" tvg-logo="http://goo.gl/VDyslJ?" group-title="SERIADOS",SYFY [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/3905.m3u8
+#EXTINF:0 tvg-id="Syfy" tvg-logo="http://goo.gl/VDyslJ?" group-title="SERIADOS",SYFY [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/3906.m3u8
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://goo.gl/omksVK?" group-title="SERIADOS",SONY [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/3917.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://goo.gl/U4atFv?" group-title="SERIADOS",AXN [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4185.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://goo.gl/U4atFv?" group-title="SERIADOS",AXN [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4186.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://goo.gl/TLM39Z?" group-title="SERIADOS",AMC [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4192
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://goo.gl/TLM39Z?" group-title="SERIADOS",AMC [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/670.m3u8
+#EXTINF:-1 tvg-id="A&amp;E" tvg-logo="https://goo.gl/9UZzCQ?" group-title="SERIADOS",A&E [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4194.m3u8
+#EXTINF:-1 tvg-id="A&amp;E" tvg-logo="https://goo.gl/9UZzCQ?" group-title="SERIADOS",A&E [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4194.m3u8
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://goo.gl/6wG2dw?" group-title="SERIADOS",LIFETIME [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4070.m3u8
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://goo.gl/6wG2dw?" group-title="SERIADOS",LIFETIME [SD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4070.m3u8
