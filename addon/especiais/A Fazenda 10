@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",A Fazenda [opção1]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://tvipbr.net:8080/live/gisele01/gisele01/18804.ts
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",A Fazenda [opção2]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://tvipbr.net:8080/live/gisele01/gisele01/21215.ts
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",A Fazenda [opção3]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://tvipbr.net:8080/live/gisele01/gisele01/21214.ts
