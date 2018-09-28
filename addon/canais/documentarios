@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="DOCUMENTARIOS",ANIMAL PLANET [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4190.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://goo.gl/5ObfPV?"  group-title="DOCUMENTARIOS",DISCOVERY CHANNEL [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4153.m3u8
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="http://goo.gl/t0czad?"  group-title="DOCUMENTARIOS",NAT GEO WILD [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4049.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://goo.gl/vZm1PM?"  group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4581.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="http://goo.gl/5rr2ab?" group-title="DOCUMENTARIOS",THE HISTORY CHANNEL [FHD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/702.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="http://goo.gl/5rr2ab?" group-title="DOCUMENTARIOS",THE HISTORY CHANNEL [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4077.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://goo.gl/INXrU0?" group-title="DOCUMENTARIOS",NAT GEO [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4047.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://goo.gl/B8yVJo?"  group-title="DOCUMENTARIOS",DISCOVERY TURBO [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4146.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://goo.gl/dzX1M2?" group-title="DOCUMENTARIOS",H2 [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4078.m3u8
+#EXTINF:0 tvg-id="TLC" tvg-logo="https://goo.gl/46JvTg?" group-title="DOCUMENTARIOS",TLC [HD]
+ 
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="https://goo.gl/al1XQO?" group-title="DOCUMENTARIOS",INVESTIGACAO DISCOVERY [HD]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4075.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://goo.gl/PQFZHJ?"  group-title="DOCUMENTARIOS",DISCOVERY THEATER [HD]
