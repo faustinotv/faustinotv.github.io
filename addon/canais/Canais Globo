@@ -13,16 +13,16 @@ plugin://plugin.video.f4mTester/?name=GLOBO SP HD - FAUSTINOTV&streamtype=HLSRET
 plugin://plugin.video.f4mTester/?name=GLOBO BRASILIA - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/606.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Minas[/COLOR][/B] [COLOR yellow]FULLHD[/COLOR]
-plugin://plugin.video.f4mTester/?name=GLOBO MINAS FULLHD- FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/11140.m3u8
+plugin://plugin.video.f4mTester/?name=GLOBO MINAS FULLHD - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/11140.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Minas[/COLOR][/B] [COLOR yellow]HD[/COLOR]
-plugin://plugin.video.f4mTester/?name=GLOBO MINAS HD- FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4107.m3u8
+plugin://plugin.video.f4mTester/?name=GLOBO MINAS HD - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4107.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Nordeste[/COLOR][/B]
-plugin://plugin.video.f4mTester/?name=GLOBO NORDESTE&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4632.m3u8
+plugin://plugin.video.f4mTester/?name=GLOBO NORDESTE - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4632.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo RBS [/COLOR][/B][COLOR yellow]FULLHD[/COLOR]
 plugin://plugin.video.f4mTester/?name=GLOBO RBS FULL HD - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/11173.ts
 
 #EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Premium[/COLOR][/B] [COLOR yellow]FULLHD[/COLOR]
-plugin://plugin.video.f4mTester/?name=GLOBO PREMIUM FULLHD&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/7620.m3u8
+plugin://plugin.video.f4mTester/?name=GLOBO PREMIUM FULLHD - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/7620.m3u8
