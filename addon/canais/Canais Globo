@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TCmcww?" group-title="CANAIS GLOBO",[B][COLOR blue]Globo RJ[/COLOR][/B] [COLOR yellow]HD[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo RJ[/COLOR][/B] [COLOR yellow]HD[/COLOR]
 plugin://plugin.video.f4mTester/?name=GLOBO RIO HD - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4100.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TCmcww?" group-title="CANAIS GLOBO",[B][COLOR blue]Globo RJ[/COLOR][/B] [COLOR yellow]SD[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo RJ[/COLOR][/B] [COLOR yellow]SD[/COLOR]
 plugin://plugin.video.f4mTester/?name=GLOBO RIO SD - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4101.m3u8
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="CANAIS GLOBO",[B][COLOR blue]Globo SP[/COLOR][/B] [COLOR yellow]HD[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo SP[/COLOR][/B] [COLOR yellow]HD[/COLOR]
 plugin://plugin.video.f4mTester/?name=GLOBO SP HD - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4097.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/rJu57H0HQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Brasília[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Brasília[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=GLOBO BRASILIA - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/606.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Minas[/COLOR][/B] [COLOR yellow]FULLHD[/COLOR]
@@ -18,11 +18,11 @@ plugin://plugin.video.f4mTester/?name=GLOBO MINAS FULLHD- FAUSTINOTV&streamtype=
 #EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Minas[/COLOR][/B] [COLOR yellow]HD[/COLOR]
 plugin://plugin.video.f4mTester/?name=GLOBO MINAS HD- FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4107.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/r13VtHCr7" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Nordeste[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Nordeste[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=GLOBO NORDESTE&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/4632.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/B1l7gdvD7" group-title="CANAIS GLOBO",[B][COLOR blue]Globo RBS [/COLOR][/B][COLOR yellow]FULLHD[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo RBS [/COLOR][/B][COLOR yellow]FULLHD[/COLOR]
 plugin://plugin.video.f4mTester/?name=GLOBO RBS FULL HD - FAUSTINOTV&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/11173.ts
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/B1l7gdvD7" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Premium[/COLOR][/B] [COLOR yellow]FULLHD[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SynKdS0rQ" group-title="CANAIS GLOBO",[B][COLOR blue]Globo Premium[/COLOR][/B] [COLOR yellow]FULLHD[/COLOR]
 plugin://plugin.video.f4mTester/?name=GLOBO PREMIUM FULLHD&streamtype=HLSRETRY&amp;url=http://br1.e-tv.xyz:8081/live/gobrnovo6/3kDxJQ68Ti/7620.m3u8
