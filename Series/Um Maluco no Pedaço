@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
- 
-<channels>
-</channels><channel>
-<name>1º Temporada </name>****************************
-<item>
-<title>EPISÓDIO 01</title>
-<link>https://lh3.googleusercontent.com/mvfzq5huY38bMO5Ru-nNNGormrHWjtaKN2cQBOBvR7sbEmVzd6WMTMwl45e8WMmpRhRenEdAFNF8aoN8etvoCoWP4Pw9e1ixpBpDiZJuL_t2p2eqNcrztMVmGt_7xB9JFPiqatEO=m18</link>
-<thumbnail>http://gamehall.uol.com.br/v10/wp-content/uploads/2017/08/ummaluconopeda%C3%A7o.jpg</thumbnail>
-<fanart>http://gamehall.uol.com.br/v10/wp-content/uploads/2017/08/ummaluconopeda%C3%A7o.jpg</fanart>
-<genre>Duração:</genre>
-</item>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJfzNUht7"  group-title="Um Maluco no Pedaço",[B][COLOR blue]1ª TEMPORADA*********[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJfzNUht7"  group-title="Um Maluco no Pedaço",[B]EPISODIO 01[/B]
+https://lh3.googleusercontent.com/mvfzq5huY38bMO5Ru-nNNGormrHWjtaKN2cQBOBvR7sbEmVzd6WMTMwl45e8WMmpRhRenEdAFNF8aoN8etvoCoWP4Pw9e1ixpBpDiZJuL_t2p2eqNcrztMVmGt_7xB9JFPiqatEO=m18
