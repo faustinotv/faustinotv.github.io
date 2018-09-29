@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",A Fazenda [opção1]
-plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://tvipbr.net:8080/live/gisele01/gisele01/18804.ts
-#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",A Fazenda [opção2]
-plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://tvipbr.net:8080/live/gisele01/gisele01/21215.ts
-#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",A Fazenda [opção3]
-plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=http://tvipbr.net:8080/live/gisele01/gisele01/21214.ts
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",[B][COLOR bue]A Fazenda[/COLOR][/B] [COLOR yellow]HD[/COLOR]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=https://cx3.azureedge.net/hls1/afazenda.m3u8
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",[B][COLOR bue]A Fazenda[/COLOR][/B] [COLOR yellow]SD[/COLOR]
+plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=https://cx3.azureedge.net/hls1/afazenda-sd.m3u8
+
