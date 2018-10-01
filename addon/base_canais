@@ -20,7 +20,7 @@ Sem travas[/COLOR][/B]</info>
  
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] TV ABERTA [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/tv_aberta</externallink>
+<externallink>http://kodi.faustino.ninja/canais/tv_aberta.xml</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
@@ -36,7 +36,7 @@ Sem travas[/COLOR][/B]</info>
  
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] FILMES [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/filmes</externallink>
+<externallink>canais_filmes.xml</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
@@ -52,7 +52,7 @@ Sem travas[/COLOR][/B]</info>
 
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] SÉRIES [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/series</externallink>
+<externallink>http://kodi.faustino.ninja/canais/canais_seriados.xml</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
@@ -68,7 +68,7 @@ Sem travas[/COLOR][/B]</info>
 
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] DOCUMENTÁRIOS [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/documentarios</externallink>
+<externallink>http://kodi.faustino.ninja/canais/canais_documentarios.xml</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
@@ -84,7 +84,7 @@ Sem travas[/COLOR][/B]</info>
 
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] ESPORTES [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/esportes</externallink>
+<externallink>http://kodi.faustino.ninja/canais/canais_esporte.xml</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
@@ -100,7 +100,7 @@ Sem travas[/COLOR][/B]</info>
 
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] PREMIERE [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/premiere</externallink>
+<externallink>http://kodi.faustino.ninja/canais/canais_premiere.xml</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
@@ -116,7 +116,7 @@ Sem travas[/COLOR][/B]</info>
 
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] INFANTIL [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/infantil</externallink>
+<externallink>http://kodi.faustino.ninja/canais/canais_infantil.xml</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
@@ -132,7 +132,7 @@ Sem travas[/COLOR][/B]</info>
 
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] VARIEDADES [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/variedades</externallink>
+<externallink>http://0.0.0.0</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
@@ -148,7 +148,7 @@ Sem travas[/COLOR][/B]</info>
 
 <channel>
 <name>[COLOR lime][B]●●[/B][/COLOR][COLOR yellow] NEWS [COLOR lime][B]●●[/B][/COLOR][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/addon/canais/news</externallink>
+<externallink>http://kodi.faustino.ninja/canais/canais_news.xml</externallink>
 <info>[B][COLOR blue]Ajude a manter o projeto faça uma doação!![/COLOR]
 Caixa Econômica Federal
 Agencia: 1660
