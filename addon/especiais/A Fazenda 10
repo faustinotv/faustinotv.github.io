@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",[B][COLOR blue]A Fazenda[/COLOR][/B] [COLOR yellow]HD[/COLOR]
-plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=https://cx3.azureedge.net/hls1/afazenda.m3u8
-#EXTINF:-1 tvg-logo="https://i.upimg.com/SJaZORSYX",[B][COLOR blue]A Fazenda[/COLOR][/B] [COLOR yellow]SD[/COLOR]
-plugin://plugin.video.f4mTester/?name=FaustinoTV&streamtype=HLSRETRY&amp;url=https://cx3.azureedge.net/hls1/afazenda-sd.m3u8
-
