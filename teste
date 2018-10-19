@@ -1,0 +1,26 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.upimg.com/ryh7NniSX" pltv-name="FaustinoTV" pltv-description="LISTA DE CANAIS" pltv-cover="https://i.upimg.com/HJXjsYYFX" pltv-author="Roberton Faustino" pltv-site="https://goo.gl/LKY9sa" pltv-email="admin@faustino.ninja" pltv-phone="(47)9204-5721"
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 1" pltv-subgroup="Canais Abertos", Globo SP
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1813.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 1" pltv-subgroup="Canais Abertos", SBT
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1757.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 1" pltv-subgroup="Canais Abertos", BAND
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1861.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 1" pltv-subgroup="Canais Abertos", RECORD
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1759.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 2" pltv-subgroup="Canais Abertos", Globo SP
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1813.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 2" pltv-subgroup="Canais Abertos", SBT
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1757.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 2" pltv-subgroup="Canais Abertos", BAND
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1861.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 2" pltv-subgroup="Canais Abertos", RECORD
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1759.ts
