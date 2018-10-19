@@ -6,183 +6,183 @@
 https://lh3.googleusercontent.com/0UHw3pVq3TAnIu9FhD8vuUDQU8cWF3z9MoWopefVbusPxZXovW2IiL_q5yKwLKzrj5uOsL5xE2w7cPKdx2C9aEz_hgi1B5QQ31ZTo0Xyo7Y06KVhWWirKr1JZjNcfL6hxQvnYoZAGw=m22
 ###############################################################  ###########################################################################
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="SERVIDOR 01",ATUALIZADA EM 19/10/2018
+#EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="TV AP VIVO / SERVIDOR 01",ATUALIZADA EM 19/10/2018
 https://DIVi11s
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",Globo SP
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="TV ABERTA",Globo SP
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1813.ts
-#EXTINF:-1 tvg-logo="https://i.upimg.com/B1pihr0rQ" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",SBT
+#EXTINF:-1 tvg-logo="https://i.upimg.com/B1pihr0rQ" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="TV ABERTA",SBT
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1757.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",BAND PR
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="TV ABERTA",BAND PR
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1861.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",RECORD
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="TV ABERTA",RECORD
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1764.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",REDE TV
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="TV ABERTA",REDE TV
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1759.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/8L6nXq?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",Viva
+#EXTINF:-1 tvg-logo="http://goo.gl/8L6nXq?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="TV ABERTA",Viva
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1728.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/aaV8TF?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",Futura
+#EXTINF:-1 tvg-logo="http://goo.gl/aaV8TF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="TV ABERTA",Futura
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1820.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="http://goo.gl/P79aKf?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",TELECINE ACTION
+#EXTINF:-1 tvg-logo="http://goo.gl/P79aKf?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",TELECINE ACTION
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1744.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/fLmSUL?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",TELECINE CULT
+#EXTINF:-1 tvg-logo="http://goo.gl/fLmSUL?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",TELECINE CULT
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1743.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/Dk6F7h?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",TELECINE FUN
+#EXTINF:-1 tvg-logo="http://goo.gl/Dk6F7h?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",TELECINE FUN
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1742.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/5IKysn?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",TELECINE PIPOCA
+#EXTINF:-1 tvg-logo="http://goo.gl/5IKysn?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",TELECINE PIPOCA
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1741.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/XaOWO6?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="http://goo.gl/XaOWO6?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",TELECINE PREMIUM
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1740.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/AfJkib?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",TELECINE TOUCH
+#EXTINF:-1 tvg-logo="http://goo.gl/AfJkib?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",TELECINE TOUCH
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1739.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/yrDz67?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",HBO 2
+#EXTINF:-1 tvg-logo="http://goo.gl/yrDz67?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",HBO 2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1802.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/2BXhGr?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",HBO FAMILY
+#EXTINF:-1 tvg-logo="http://goo.gl/2BXhGr?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",HBO FAMILY
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1801.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/ISXYSM?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",HBO PLUS
+#EXTINF:-1 tvg-logo="http://goo.gl/ISXYSM?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",HBO PLUS
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1800.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/GY0nyM?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",SPACE
+#EXTINF:-1 tvg-logo="http://goo.gl/GY0nyM?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",SPACE
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1754.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/qXR9CS?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",Megapix
+#EXTINF:-1 tvg-logo="http://goo.gl/qXR9CS?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",Megapix
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1790.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/vUl6oy?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",TNT
+#EXTINF:-1 tvg-logo="http://goo.gl/vUl6oy?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",TNT
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1738.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/oDAihL?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",CINEMAX
+#EXTINF:-1 tvg-logo="https://goo.gl/oDAihL?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",CINEMAX
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/2320.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/db6g8k?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",MAX
+#EXTINF:-1 tvg-logo="https://goo.gl/db6g8k?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",MAX
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1794.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/JG4dUv?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",MAX PRIME
+#EXTINF:-1 tvg-logo="http://goo.gl/JG4dUv?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",MAX PRIME
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1793.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/T8ICde?" group-title="SERVIDOR 01" pltv-subgroup="FILMES",STUDIO UNIVERSAL [HD]
+#EXTINF:-1 tvg-logo="http://goo.gl/T8ICde?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="FILMES",STUDIO UNIVERSAL [HD]
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1747.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",TNT SERIES 
+#EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",TNT SERIES 
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1737.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/13gfQq?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",FOX
+#EXTINF:-1 tvg-logo="http://goo.gl/13gfQq?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",FOX
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1828.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/Z9UCZQ?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",FOX PREMIUM 1
+#EXTINF:-1 tvg-logo="https://goo.gl/Z9UCZQ?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",FOX PREMIUM 1
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/173.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/RnqXjY?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",FX
+#EXTINF:-1 tvg-logo="http://goo.gl/RnqXjY?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",FX
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1818.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/6Y4LUI?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",TBS
+#EXTINF:-1 tvg-logo="http://goo.gl/6Y4LUI?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",TBS
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1745.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/K8V00r?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="http://goo.gl/K8V00r?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",UNIVERSAL CHANNEL
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1729.ts
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-logo="http://goo.gl/u2Eh6h?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-logo="http://goo.gl/u2Eh6h?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",Warner Channel
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1727.ts
-#EXTINF:0 tvg-logo="https://goo.gl/STGSLK?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",FOX LIFE
+#EXTINF:0 tvg-logo="https://goo.gl/STGSLK?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",FOX LIFE
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1827.ts
-#EXTINF:0 tvg-logo="http://goo.gl/VDyslJ?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",SYFY
+#EXTINF:0 tvg-logo="http://goo.gl/VDyslJ?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",SYFY
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1746.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/U4atFv?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",AXN
+#EXTINF:-1 tvg-logo="http://goo.gl/U4atFv?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",AXN
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1868.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/9UZzCQ?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",A&E
+#EXTINF:-1 tvg-logo="https://goo.gl/9UZzCQ?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",A&E
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1867.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/6wG2dw?" group-title="SERVIDOR 01" pltv-subgroup="SERIADOS",LIFETIME
+#EXTINF:-1 tvg-logo="https://goo.gl/6wG2dw?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="SERIADOS",LIFETIME
 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/2252.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="http://goo.gl/yXfk9Y?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="http://goo.gl/yXfk9Y?"  group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",ANIMAL PLANET
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1865.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/5ObfPV?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="http://goo.gl/5ObfPV?"  group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY CHANNEL
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1849.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/t0czad?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",NAT GEO WILD
+#EXTINF:-1 tvg-logo="http://goo.gl/t0czad?"  group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",NAT GEO WILD
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1787.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/vZm1PM?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY CIVILIZATION
+#EXTINF:-1 tvg-logo="http://goo.gl/vZm1PM?"  group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY CIVILIZATION
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1850.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",THE HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",THE HISTORY CHANNEL
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1797.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/INXrU0?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",NAT GEO
+#EXTINF:-1 tvg-logo="http://goo.gl/INXrU0?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",NAT GEO
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1786.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/B8yVJo?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="http://goo.gl/B8yVJo?"  group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY TURBO
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1845.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/dzX1M2?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",H2
+#EXTINF:-1 tvg-logo="https://goo.gl/dzX1M2?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",H2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1805.ts
-#EXTINF:0 tvg-logo="https://goo.gl/46JvTg?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",TLC
+#EXTINF:0 tvg-logo="https://goo.gl/46JvTg?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",TLC
 
-#EXTINF:-1 tvg-logo="https://goo.gl/al1XQO?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",INVESTIGACAO DISCOVERY
+#EXTINF:-1 tvg-logo="https://goo.gl/al1XQO?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",INVESTIGACAO DISCOVERY
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1795.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="http://goo.gl/hfvcjk?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",Band Sports
+#EXTINF:-1 tvg-logo="http://goo.gl/hfvcjk?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",Band Sports
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1858.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/vJAL7G?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",Combate
+#EXTINF:-1 tvg-logo="http://goo.gl/vJAL7G?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",Combate
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1852.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/XAaazj?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",ESPN+
+#EXTINF:-1 tvg-logo="http://goo.gl/XAaazj?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",ESPN+
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1840.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",ESPN Brasil
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",ESPN Brasil
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1839.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/yfNU1t?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",Fox Sports
+#EXTINF:-1 tvg-logo="http://goo.gl/yfNU1t?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",Fox Sports
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1826.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/FBxaWZ?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",Fox Sports 2
+#EXTINF:-1 tvg-logo="http://goo.gl/FBxaWZ?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",Fox Sports 2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1825.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/h8r8iX?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 1
+#EXTINF:-1 tvg-logo="http://goo.gl/h8r8iX?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 1
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1752.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/LqA71n?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 2
+#EXTINF:-1 tvg-logo="http://goo.gl/LqA71n?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1751.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/x6M4e4?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 3
+#EXTINF:-1 tvg-logo="http://goo.gl/x6M4e4?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 3
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1749.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere Clubes
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere Clubes
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1770.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 2
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1778.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 3
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 3
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1777.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 4
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 4
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1776.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 5
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 5
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1775.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 6
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 6
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1774.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 7
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 7
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1773.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 8
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 8
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1772.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 9
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 9
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1771.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://imgur.com/z4YsCUk.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Boomerang
+#EXTINF:-1 tvg-logo="https://imgur.com/z4YsCUk.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="INFANTIL",Boomerang
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1857.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/Pa90kRa.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Cartoon Network
+#EXTINF:-1 tvg-logo="https://imgur.com/Pa90kRa.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="INFANTIL",Cartoon Network
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1855.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0KsPve.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0KsPve.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="INFANTIL",Discovery Kids
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1847.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/4CNzXxx.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Disney Channel
+#EXTINF:-1 tvg-logo="https://imgur.com/4CNzXxx.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="INFANTIL",Disney Channel
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1844.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/SOOpWT8.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Nick Jr.
+#EXTINF:-1 tvg-logo="https://imgur.com/SOOpWT8.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="INFANTIL",Nick Jr.
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1783.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/Vg7WpM" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-logo="https://goo.gl/Vg7WpM" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="INFANTIL",TOONCAST
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1736.ts
-#EXTINF:-1 tvg-logo="https://i.upimg.com/B1KO0wacX" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.upimg.com/B1KO0wacX" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="INFANTIL",Nickelodeon
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1782.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="http://goo.gl/kqiKdy?" group-title="SERVIDOR 01" pltv-subgroup="VARIEDADES",MULTISHOW
+#EXTINF:-1 tvg-logo="http://goo.gl/kqiKdy?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="VARIEDADES",MULTISHOW
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1789.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/sQWnCW?" group-title="SERVIDOR 01" pltv-subgroup="VARIEDADES",GNT
+#EXTINF:-1 tvg-logo="http://goo.gl/sQWnCW?" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="VARIEDADES",GNT
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1808.ts
-#EXTINF:0 tvg-logo="http://listaccess.me/Logo/OFF1.png"group-title="SERVIDOR 01" pltv-subgroup="VARIEDADES",OFF
+#EXTINF:0 tvg-logo="http://listaccess.me/Logo/OFF1.png"group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="VARIEDADES",OFF
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1780.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.upimg.com/rkm_R99-Ym" group-title="SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Band News
+#EXTINF:-1 tvg-logo="https://i.upimg.com/rkm_R99-Ym" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Band News
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1859.ts
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJdC55bKm" group-title="SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Globo News
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJdC55bKm" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Globo News
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1809.ts
-#EXTINF:-1 tvg-logo="https://i.upimg.com/SJbuCc5ZF7" group-title="SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Record News
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SJbuCc5ZF7" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Record News
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1765.ts
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yag6flvo" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Apenas um Show
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yag6flvo" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Apenas um Show
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1653.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS", Os Trapalhões
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS", Os Trapalhões
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1637.ts
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Chaves.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Chaves
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Chaves.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Chaves
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1647.ts
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/corrida.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Corrida Maluca
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/corrida.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Corrida Maluca
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1646.ts
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Bob.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Bob Esponja
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Bob.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Bob Esponja
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1656.ts
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/bean.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Mr. Bean
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/bean.png" group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Mr. Bean
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1659.ts
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/simp.png"  group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Os Simpsons
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/simp.png"  group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Os Simpsons
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1652.ts
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/picapau1.png"  group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Pica Pau
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/picapau1.png"  group-title="TV AP VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Pica Pau
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1657.ts
