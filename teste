@@ -1,26 +1,315 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="https://i.upimg.com/ryh7NniSX" pltv-name="FaustinoTV" pltv-description="LISTA DE CANAIS" pltv-cover="https://i.upimg.com/HJXjsYYFX" pltv-author="Roberton Faustino" pltv-site="https://goo.gl/LKY9sa" pltv-email="admin@faustino.ninja" pltv-phone="(47)9204-5721"
+###############################################################  ###########################################################################
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 1" pltv-subgroup="Canais Abertos", Globo SP
+#EXTINF:-1 group-title="INFORMAÇÕES",*VIDEO PROMOCIONAL*
+https://lh3.googleusercontent.com/0UHw3pVq3TAnIu9FhD8vuUDQU8cWF3z9MoWopefVbusPxZXovW2IiL_q5yKwLKzrj5uOsL5xE2w7cPKdx2C9aEz_hgi1B5QQ31ZTo0Xyo7Y06KVhWWirKr1JZjNcfL6hxQvnYoZAGw=m22
+###############################################################  ###########################################################################
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://goo.gl/wm9SPd?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",Globo SP
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1813.ts
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 1" pltv-subgroup="Canais Abertos", SBT
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://i.upimg.com/B1pihr0rQ" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",SBT
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1757.ts
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 1" pltv-subgroup="Canais Abertos", BAND
+#EXTINF:-1 tvg-id="BandRede.br"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",BAND PR
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1861.ts
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 1" pltv-subgroup="Canais Abertos", RECORD
+#EXTINF:-1 tvg-id="Record.br"  tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",RECORD
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1764.ts
+
+#EXTINF:-1 tvg-id="Redetv.br"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",REDE TV
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1759.ts
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 2" pltv-subgroup="Canais Abertos", Globo SP
-http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1813.ts
+#EXTINF:-1 tvg-id="Viva.br"  tvg-logo="http://goo.gl/8L6nXq?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",Viva
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1728.ts
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 2" pltv-subgroup="Canais Abertos", SBT
-http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1757.ts
+#EXTINF:-1 tvg-id="Futura.br"  tvg-logo="http://goo.gl/aaV8TF?" group-title="SERVIDOR 01" pltv-subgroup="TV ABERTA",Futura
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1820.ts
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 2" pltv-subgroup="Canais Abertos", BAND
-http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1861.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="FILMES",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] FILMES [COLOR lime][B]***[/B][/COLOR][/COLOR]
+https://lh3.googleusercontent.com/0UHw3pVq3TAnIu9FhD8vuUDQU8cWF3z9MoWopefVbusPxZXovW2IiL_q5yKwLKzrj5uOsL5xE2w7cPKdx2C9aEz_hgi1B5QQ31ZTo0Xyo7Y06KVhWWirKr1JZjNcfL6hxQvnYoZAGw=m22
 
-#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="Servidor 2" pltv-subgroup="Canais Abertos", RECORD
-http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1759.ts
+#EXTINF:-1 tvg-id="TCAction.br" tvg-logo="http://goo.gl/P79aKf?" group-title="FILMES",TELECINE ACTION
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1744.ts
+
+#EXTINF:-1 tvg-id="TCCult.br" tvg-logo="http://goo.gl/fLmSUL?" group-title="FILMES",TELECINE CULT
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1743.ts
+
+#EXTINF:-1 tvg-id="TCFun.br" tvg-logo="http://goo.gl/Dk6F7h?" group-title="FILMES",TELECINE FUN
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1742.ts
+
+#EXTINF:-1 tvg-id="TCPipoca.br" tvg-logo="http://goo.gl/5IKysn?" group-title="FILMES",TELECINE PIPOCA
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1741.ts
+
+#EXTINF:-1 tvg-id="TCPremium.br" tvg-logo="http://goo.gl/XaOWO6?" group-title="FILMES",TELECINE PREMIUM
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1740.ts
+
+#EXTINF:-1 tvg-id="TCTouch.br" tvg-logo="http://goo.gl/AfJkib?" group-title="FILMES",TELECINE TOUCH
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1739.ts
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://goo.gl/yrDz67?" group-title="FILMES",HBO 2
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1802.ts
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://goo.gl/2BXhGr?" group-title="FILMES",HBO FAMILY
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1801.ts
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://goo.gl/ISXYSM?" group-title="FILMES",HBO PLUS
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1800.ts
+
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://goo.gl/GY0nyM?" group-title="FILMES",SPACE
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1754.ts
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://goo.gl/qXR9CS?" group-title="FILMES",Megapix
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1790.ts
+
+#EXTINF:-1 tvg-id="TNT.br" tvg-logo="http://goo.gl/vUl6oy?" group-title="FILMES",TNT
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1738.ts
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://goo.gl/oDAihL?" group-title="FILMES",CINEMAX
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/2320.ts
+
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="https://goo.gl/db6g8k?" group-title="FILMES",MAX
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1794.ts
+
+#EXTINF:-1 tvg-id="MaxPrime.br" tvg-logo="http://goo.gl/JG4dUv?" group-title="FILMES",MAX PRIME
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1793.ts
+
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="http://goo.gl/T8ICde?" group-title="FILMES",STUDIO UNIVERSAL [HD]
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1747.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="SERIADOS",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] SERIADOS [COLOR lime][B]***[/B][/COLOR][/COLOR]
+https://lh3.googleusercontent.com/0UHw3pVq3TAnIu9FhD8vuUDQU8cWF3z9MoWopefVbusPxZXovW2IiL_q5yKwLKzrj5uOsL5xE2w7cPKdx2C9aEz_hgi1B5QQ31ZTo0Xyo7Y06KVhWWirKr1JZjNcfL6hxQvnYoZAGw=m22
+
+#EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://goo.gl/2ZBWuk?" group-title="SERIADOS",TNT SERIES 
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1737.ts
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://goo.gl/13gfQq?" group-title="SERIADOS",FOX
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1828.ts
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="SERIADOS",FOX PREMIUM 1
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/173.ts
+
+#EXTINF:-1 tvg-id="FX.br" tvg-logo="http://goo.gl/RnqXjY?" group-title="SERIADOS",FX
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1818.ts
+
+#EXTINF:-1 tvg-id="TBS.br" tvg-logo="http://goo.gl/6Y4LUI?" group-title="SERIADOS",TBS
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1745.ts
+
+#EXTINF:-1 tvg-id="UniversalChannel.br" tvg-logo="http://goo.gl/K8V00r?" group-title="SERIADOS",UNIVERSAL CHANNEL
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1729.ts
+
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-logo="http://goo.gl/u2Eh6h?" group-title="SERIADOS",Warner Channel
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1727.ts
+
+#EXTINF:0 tvg-id="Foxlife.br" tvg-logo="https://goo.gl/STGSLK?" group-title="SERIADOS",FOX LIFE
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1827.ts
+
+#EXTINF:0 tvg-id="Syfy.br" tvg-logo="http://goo.gl/VDyslJ?" group-title="SERIADOS",SYFY
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1746.ts
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://goo.gl/U4atFv?" group-title="SERIADOS",AXN
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1868.ts
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="https://goo.gl/9UZzCQ?" group-title="SERIADOS",A&E
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1867.ts
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="https://goo.gl/6wG2dw?" group-title="SERIADOS",LIFETIME
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/2252.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="DOCUMENTARIOS",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] DOCUMENTARIOS [COLOR lime][B]***[/B][/COLOR][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1865.ts
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-logo="http://goo.gl/5ObfPV?"  group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1849.ts
+
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://goo.gl/t0czad?"  group-title="DOCUMENTARIOS",NAT GEO WILD
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1787.ts
+
+#EXTINF:-1 tvg-id="DiscCivi.br" tvg-logo="http://goo.gl/vZm1PM?"  group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1850.ts
+
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-logo="http://goo.gl/5rr2ab?" group-title="DOCUMENTARIOS",THE HISTORY CHANNEL
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1797.ts
+
+#EXTINF:-1 tvg-id="NatGeo.br" tvg-logo="http://goo.gl/INXrU0?" group-title="DOCUMENTARIOS",NAT GEO
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1786.ts
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-logo="http://goo.gl/B8yVJo?"  group-title="DOCUMENTARIOS",DISCOVERY TURBO
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1845.ts
+
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://goo.gl/dzX1M2?" group-title="DOCUMENTARIOS",H2
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1805.ts
+
+#EXTINF:0 tvg-id="TLC.br" tvg-logo="https://goo.gl/46JvTg?" group-title="DOCUMENTARIOS",TLC
+
+#EXTINF:-1 tvg-id="ID.br" tvg-logo="https://goo.gl/al1XQO?" group-title="DOCUMENTARIOS",INVESTIGACAO DISCOVERY
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1795.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="ESPORTES",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] ESPORTES [COLOR lime][B]***[/B][/COLOR][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="http://goo.gl/hfvcjk?" group-title="ESPORTES",Band Sports
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1858.ts
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://goo.gl/vJAL7G?" group-title="ESPORTES",Combate
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1852.ts
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://goo.gl/XAaazj?" group-title="ESPORTES",ESPN+
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1840.ts
+
+#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-logo="http://goo.gl/iSukWD?" group-title="ESPORTES",ESPN Brasil
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1839.ts
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://goo.gl/yfNU1t?" group-title="ESPORTES",Fox Sports
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1826.ts
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://goo.gl/FBxaWZ?" group-title="ESPORTES",Fox Sports 2
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1825.ts
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://goo.gl/h8r8iX?" group-title="ESPORTES",SporTV 1
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1752.ts
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://goo.gl/LqA71n?" group-title="ESPORTES",SporTV 2
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1751.ts
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://goo.gl/x6M4e4?" group-title="ESPORTES",SporTV 3
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1749.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="PREMIERE",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] PREMIERE [COLOR lime][B]***[/B][/COLOR][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere Clubes
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1770.ts
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 2
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1778.ts
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 3
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1777.ts
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 4
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1776.ts
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 5
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1775.ts
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 6
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1774.ts
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 7
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1773.ts
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 8
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1772.ts
+
+#EXTINF:-1 tvg-id="Premiere9.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 9
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1771.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="INFANTIL",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] INFANTIL [COLOR lime][B]***[/B][/COLOR][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://imgur.com/z4YsCUk.png" group-title="INFANTIL",Boomerang
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1857.ts
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://imgur.com/Pa90kRa.png" group-title="INFANTIL",Cartoon Network
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1855.ts
+
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://i.imgur.com/h0KsPve.png" group-title="INFANTIL",Discovery Kids
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1847.ts
+
+#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-logo="https://imgur.com/4CNzXxx.png" group-title="INFANTIL",Disney Channel
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1844.ts
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://imgur.com/SOOpWT8.png" group-title="INFANTIL",Nick Jr.
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1783.ts
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://goo.gl/Vg7WpM" group-title="INFANTIL",TOONCAST
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1736.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://i.upimg.com/B1KO0wacX" group-title="INFANTIL",Nickelodeon
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1782.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="VARIEDADES",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] VARIEDADES [COLOR lime][B]***[/B][/COLOR][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://goo.gl/kqiKdy?"  group-title="VARIEDADES",MULTISHOW
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1789.ts
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://goo.gl/sQWnCW?"  group-title="VARIEDADES",GNT
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1808.ts
+
+#EXTINF:0 tvg-id="Off.br" tvg-logo="http://listaccess.me/Logo/OFF1.png" group-title="VARIEDADES",OFF
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1780.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="NOTÍCIAS",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] NOTÍCIAS [COLOR lime][B]***[/B][/COLOR][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://i.upimg.com/rkm_R99-Ym" group-title="NOTÍCIAS",Band News
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1859.ts
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="https://i.upimg.com/BJdC55bKm" group-title="NOTÍCIAS",Globo News
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1809.ts
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.upimg.com/SJbuCc5ZF7" group-title="NOTÍCIAS",Record News
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1765.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS 24 HORAS",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] CANAIS 24 HORAS [COLOR lime][B]***[/B][/COLOR][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://s.aficionados.com.br/imagens/apenas-um-show_f.png" group-title="CANAIS 24 HORAS",Apenas um Show
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1653.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="CANAIS 24 HORAS", Os Trapalhões
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1637.ts
+
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Chaves.png" group-title="CANAIS 24 HORAS",Chaves
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1647.ts
+
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/corrida.png" group-title="CANAIS 24 HORAS",Corrida Maluca
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1646.ts
+
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Bob.png" group-title="CANAIS 24 HORAS",Bob Esponja
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1656.ts
+
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/bean.png" group-title="CANAIS 24 HORAS",Mr. Bean
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1659.ts
+
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/simp.png"  group-title="CANAIS 24 HORAS",Os Simpsons
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1652.ts
+
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/picapau1.png"  group-title="CANAIS 24 HORAS",Pica Pau
+http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1657.ts
+
+#EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="RÁDIOS",[COLOR lime][B]***[/B][/COLOR][COLOR yellow] RÁDIOS [COLOR lime][B]***[/B][/COLOR][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SJGeLnGYX" group-title="RÁDIOS",Rádio Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+#EXTINF:-1 tvg-logo="https://i.upimg.com/SyW_u2GFX" group-title="RÁDIOS",Rádio Atlantida FM (Florianópolis)
+http://122747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_fln.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y96pdwbr" group-title="RÁDIOS", Seratejo Universitário
+http://6d9a.webradio.upx.net.br:9049/stream
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yamnk6se" group-title="RÁDIOS",Rádio anos 80
+http://6d9a.webradio.upx.net.br:9059/stream
+
+#EXTINF:-1 tvg-logo="http://propmark.com.br/static/upload/legacy/thumbs/2014/radioantigo600.jpg" group-title="RÁDIOS",Rádio Anos 90
+http://6d9a.webradio.upx.net.br:9060/stream
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycfyg2wd" group-title="RÁDIOS",Geração Eletrônica
+http://149.56.167.236:8433/
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb4skfb2" group-title="RÁDIOS",KISS FM
+http://stm15.sateg.com.br:23538/
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s123156q.png" group-title="RÁDIOS",92 FM
+http://ice2.fabricahost.com.br:8056/live
+
+
+
