@@ -116,33 +116,33 @@ http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/2252.ts
 
 ###############################################################  ###########################################################################
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="DOCUMENTARIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",ANIMAL PLANET
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1865.ts
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-logo="http://goo.gl/5ObfPV?"  group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-logo="http://goo.gl/5ObfPV?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY CHANNEL
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1849.ts
 
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://goo.gl/t0czad?"  group-title="DOCUMENTARIOS",NAT GEO WILD
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://goo.gl/t0czad?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",NAT GEO WILD
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1787.ts
 
-#EXTINF:-1 tvg-id="DiscCivi.br" tvg-logo="http://goo.gl/vZm1PM?"  group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
+#EXTINF:-1 tvg-id="DiscCivi.br" tvg-logo="http://goo.gl/vZm1PM?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY CIVILIZATION
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1850.ts
 
-#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-logo="http://goo.gl/5rr2ab?" group-title="DOCUMENTARIOS",THE HISTORY CHANNEL
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-logo="http://goo.gl/5rr2ab?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",THE HISTORY CHANNEL
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1797.ts
 
-#EXTINF:-1 tvg-id="NatGeo.br" tvg-logo="http://goo.gl/INXrU0?" group-title="DOCUMENTARIOS",NAT GEO
+#EXTINF:-1 tvg-id="NatGeo.br" tvg-logo="http://goo.gl/INXrU0?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",NAT GEO
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1786.ts
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-logo="http://goo.gl/B8yVJo?"  group-title="DOCUMENTARIOS",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-logo="http://goo.gl/B8yVJo?"  group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",DISCOVERY TURBO
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1845.ts
 
-#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://goo.gl/dzX1M2?" group-title="DOCUMENTARIOS",H2
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://goo.gl/dzX1M2?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",H2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1805.ts
 
-#EXTINF:0 tvg-id="TLC.br" tvg-logo="https://goo.gl/46JvTg?" group-title="DOCUMENTARIOS",TLC
+#EXTINF:0 tvg-id="TLC.br" tvg-logo="https://goo.gl/46JvTg?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",TLC
 
-#EXTINF:-1 tvg-id="ID.br" tvg-logo="https://goo.gl/al1XQO?" group-title="DOCUMENTARIOS",INVESTIGACAO DISCOVERY
+#EXTINF:-1 tvg-id="ID.br" tvg-logo="https://goo.gl/al1XQO?" group-title="SERVIDOR 01" pltv-subgroup="DOCUMENTARIOS",INVESTIGACAO DISCOVERY
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1795.ts
 
 ###############################################################  ###########################################################################
