@@ -151,128 +151,128 @@ http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1795.ts
 
 ###############################################################  ###########################################################################
 
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="http://goo.gl/hfvcjk?" group-title="ESPORTES",Band Sports
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="http://goo.gl/hfvcjk?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",Band Sports
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1858.ts
 
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://goo.gl/vJAL7G?" group-title="ESPORTES",Combate
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://goo.gl/vJAL7G?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",Combate
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1852.ts
 
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://goo.gl/XAaazj?" group-title="ESPORTES",ESPN+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://goo.gl/XAaazj?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",ESPN+
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1840.ts
 
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-logo="http://goo.gl/iSukWD?" group-title="ESPORTES",ESPN Brasil
+#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-logo="http://goo.gl/iSukWD?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",ESPN Brasil
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1839.ts
 
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://goo.gl/yfNU1t?" group-title="ESPORTES",Fox Sports
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://goo.gl/yfNU1t?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",Fox Sports
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1826.ts
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://goo.gl/FBxaWZ?" group-title="ESPORTES",Fox Sports 2
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://goo.gl/FBxaWZ?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",Fox Sports 2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1825.ts
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://goo.gl/h8r8iX?" group-title="ESPORTES",SporTV 1
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://goo.gl/h8r8iX?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 1
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1752.ts
 
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://goo.gl/LqA71n?" group-title="ESPORTES",SporTV 2
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://goo.gl/LqA71n?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1751.ts
 
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://goo.gl/x6M4e4?" group-title="ESPORTES",SporTV 3
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://goo.gl/x6M4e4?" group-title="SERVIDOR 01" pltv-subgroup="ESPORTES",SporTV 3
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1749.ts
 
 ###############################################################  ###########################################################################
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere Clubes
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1770.ts
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 2
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 2
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1778.ts
 
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 3
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 3
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1777.ts
 
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 4
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 4
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1776.ts
 
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 5
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 5
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1775.ts
 
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 6
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 6
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1774.ts
 
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 7
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 7
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1773.ts
 
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 8
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 8
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1772.ts
 
-#EXTINF:-1 tvg-id="Premiere9.br" tvg-logo="http://goo.gl/MczmKF?"  group-title="PREMIERE",Premiere 9
+#EXTINF:-1 tvg-id="Premiere9.br" tvg-logo="http://goo.gl/MczmKF?" group-title="SERVIDOR 01" pltv-subgroup="PREMIERE",Premiere 9
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1771.ts
 
 ###############################################################  ###########################################################################
 
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://imgur.com/z4YsCUk.png" group-title="INFANTIL",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://imgur.com/z4YsCUk.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Boomerang
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1857.ts
 
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://imgur.com/Pa90kRa.png" group-title="INFANTIL",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://imgur.com/Pa90kRa.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Cartoon Network
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1855.ts
 
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://i.imgur.com/h0KsPve.png" group-title="INFANTIL",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://i.imgur.com/h0KsPve.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Discovery Kids
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1847.ts
 
-#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-logo="https://imgur.com/4CNzXxx.png" group-title="INFANTIL",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-logo="https://imgur.com/4CNzXxx.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Disney Channel
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1844.ts
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://imgur.com/SOOpWT8.png" group-title="INFANTIL",Nick Jr.
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://imgur.com/SOOpWT8.png" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Nick Jr.
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1783.ts
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://goo.gl/Vg7WpM" group-title="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://goo.gl/Vg7WpM" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",TOONCAST
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1736.ts
 
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://i.upimg.com/B1KO0wacX" group-title="INFANTIL",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://i.upimg.com/B1KO0wacX" group-title="SERVIDOR 01" pltv-subgroup="INFANTIL",Nickelodeon
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1782.ts
 
 ###############################################################  ###########################################################################
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://goo.gl/kqiKdy?"  group-title="VARIEDADES",MULTISHOW
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://goo.gl/kqiKdy?" group-title="SERVIDOR 01" pltv-subgroup="VARIEDADES",MULTISHOW
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1789.ts
 
-#EXTINF:-1 tvg-id="GNT" tvg-logo="http://goo.gl/sQWnCW?"  group-title="VARIEDADES",GNT
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://goo.gl/sQWnCW?" group-title="SERVIDOR 01" pltv-subgroup="VARIEDADES",GNT
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1808.ts
 
-#EXTINF:0 tvg-id="Off.br" tvg-logo="http://listaccess.me/Logo/OFF1.png" group-title="VARIEDADES",OFF
+#EXTINF:0 tvg-id="Off.br" tvg-logo="http://listaccess.me/Logo/OFF1.png"group-title="SERVIDOR 01" pltv-subgroup="VARIEDADES",OFF
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1780.ts
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://i.upimg.com/rkm_R99-Ym" group-title="NOTÍCIAS",Band News
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://i.upimg.com/rkm_R99-Ym" group-title="SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Band News
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1859.ts
 
-#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="https://i.upimg.com/BJdC55bKm" group-title="NOTÍCIAS",Globo News
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="https://i.upimg.com/BJdC55bKm" group-title="SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Globo News
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1809.ts
 
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.upimg.com/SJbuCc5ZF7" group-title="NOTÍCIAS",Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.upimg.com/SJbuCc5ZF7" group-title="SERVIDOR 01" pltv-subgroup="NOTÍCIAS",Record News
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1765.ts
 
 ###############################################################  ###########################################################################
 
-#EXTINF:-1 tvg-logo="https://s.aficionados.com.br/imagens/apenas-um-show_f.png" group-title="CANAIS 24 HORAS",Apenas um Show
+#EXTINF:-1 tvg-logo="https://s.aficionados.com.br/imagens/apenas-um-show_f.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Apenas um Show
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1653.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="CANAIS 24 HORAS", Os Trapalhões
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS", Os Trapalhões
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1637.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Chaves.png" group-title="CANAIS 24 HORAS",Chaves
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Chaves.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Chaves
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1647.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/corrida.png" group-title="CANAIS 24 HORAS",Corrida Maluca
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/corrida.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Corrida Maluca
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1646.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Bob.png" group-title="CANAIS 24 HORAS",Bob Esponja
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Bob.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Bob Esponja
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1656.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/bean.png" group-title="CANAIS 24 HORAS",Mr. Bean
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/bean.png" group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Mr. Bean
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1659.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/simp.png"  group-title="CANAIS 24 HORAS",Os Simpsons
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/simp.png"  group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Os Simpsons
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1652.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/picapau1.png"  group-title="CANAIS 24 HORAS",Pica Pau
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/picapau1.png"  group-title="SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Pica Pau
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1657.ts
