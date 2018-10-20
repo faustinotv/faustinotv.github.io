@@ -186,3 +186,10 @@ http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1659.ts
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1652.ts
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/picapau1.png"  group-title="TV AO VIVO / SERVIDOR 01" pltv-subgroup="CANAIS 24 HORAS",Pica Pau
 http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1657.ts
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="http://faustinotv.tk/PabHB" group-title="TV AO VIVO / SERVIDOR 02" pltv-subgroup="TV ABERTA",Globo SP
+https://www.skyiptv.com.br:25463/live/Palmeiras1951/CampeaoMundial/17.m3u8?|User-Agent=ExoPlayerDemo/2.0.0 (Linux;Android 7.0) ExoPlayerLib/2.5.4
+#EXTINF:-1 tvg-logo="http://faustinotv.tk/PabHB" group-title="TV AO VIVO / SERVIDOR 02" pltv-subgroup="TV ABERTA",Globo RJ
+https://www.skyiptv.com.br:25463/live/Palmeiras1951/CampeaoMundial/1.m3u8?|User-Agent=ExoPlayerDemo/2.0.0 (Linux;Android 7.0) ExoPlayerLib/2.5.4
+#EXTINF:-1 tvg-logo="http://faustinotv.tk/PabHB" group-title="TV AO VIVO / SERVIDOR 02" pltv-subgroup="TV ABERTA",Globo MG
+https://www.skyiptv.com.br:25463/live/Palmeiras1951/CampeaoMundial/18.m3u8?|User-Agent=ExoPlayerDemo/2.0.0 (Linux;Android 7.0) ExoPlayerLib/2.5.4
