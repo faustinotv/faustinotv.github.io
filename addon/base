@@ -1,1 +1,59 @@
 
+<layoutype>list</layoutype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]A Fazenda 10 [/COLOR][/B]</name>
+<externallink>http://kodi.faustino.ninja/a_fazenda_10.txt</externallink>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://portalcorreio.com.br/wp-content/uploads/2018/09/A-fazenda-10.jpg</fanart>
+<thumbnail>https://tinyurl.com/yaovd2fs</thumbnail>
+</channel>
+
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Canais ao Vivo[/COLOR][/B]</name>
+<externallink>http://kodi.faustino.ninja/canais/base_canais.xml</externallink>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/ByMtDcvs7</fanart>
+<thumbnail>https://i.upimg.com/rJrXzswo7</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Filmes [/COLOR][/B]</name>
+<externallink>http://kodi.faustino.ninja/filmes/base_filmes.xml</externallink>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/S1ci69vsm</fanart>
+<thumbnail>https://i.upimg.com/SyN4Mjwsm</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Séries [/COLOR][/B]</name>
+<externallink>http://kodi.faustino.ninja/seriados/base_seriados.xml</externallink>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/H1N0a5vsQ</fanart>
+<thumbnail>https://i.upimg.com/B1gLzivs7</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Canais 24Horas [/COLOR][/B]</name>
+<externallink>http://kodi.faustino.ninja/canais24horas.txt</externallink>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/HJXjsYYFX</fanart>
+<thumbnail>https://i.upimg.com/Sy7vMoPsX</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Rádio Online [/COLOR][/B]</name>
+<externallink>http://kodi.faustino.ninja/radio.txt</externallink>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/S1QlA5PjX</fanart>
+<thumbnail>https://i.upimg.com/B1tdfsws7</thumbnail>
+</channel>
