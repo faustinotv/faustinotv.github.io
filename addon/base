@@ -15,7 +15,7 @@
 <channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]TV ao Vivo[/COLOR][/B]</name>
 <externallink>http://kodi.faustino.ninja/canais/base_canais.xml</externallink>
-<genre>Canais Abertos, Filmes, Séires e muito mais</genre>
+<genre>Canais Abertos, Filmes, Séries e muito mais</genre>
 <info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
 
 [B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
@@ -26,6 +26,7 @@
 <channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Filmes [/COLOR][/B]</name>
 <externallink>http://kodi.faustino.ninja/filmes/base_filmes.xml</externallink>
+<genre>Lançamentos, Clássicos, Ação, Suspense, Policial</genre>
 <info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
 
 [B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
@@ -36,6 +37,7 @@
 <channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Séries [/COLOR][/B]</name>
 <externallink>http://kodi.faustino.ninja/seriados/base_seriados.xml</externallink>
+<genre>As melhores séries pra você!</genre>
 <info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
 
 [B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
@@ -46,6 +48,7 @@
 <channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Animes[/COLOR][/B]</name>
 <externallink>http://kodi.faustino.ninja/animes/b.xml</externallink>
+<genre>Para a criançada</genre>
 <info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
 
 [B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
@@ -56,6 +59,7 @@
 <channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Novelas[/COLOR][/B]</name>
 <externallink>http://kodi.faustino.ninja/novelas/b.xml</externallink>
+<genre>As novelas que marcaram as gerações</genre>
 <fanart>https://tinyurl.com/y5k53ngp</fanart>
 <thumbnail>https://tinyurl.com/y5k53ngp</thumbnail>
 <info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
