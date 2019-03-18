@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-logo="http://faustinotv.tk/img/Band.png" group-title="TV ABERTA",Band SP (FaustinoTV)
+http://18.217.145.10:8081/live/0I6stIrYwI/ibNy02JXLy/97.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-logo="http://www.faustinotv.tk/img/Globo1.png" group-title="TV ABERTA",Globo RJ (FaustinoTV)
+http://18.217.145.10:8081/live/0I6stIrYwI/ibNy02JXLy/1.ts
+#EXTINF:-1 tvg-ID="" tvg-logo="http://faustinotv.tk/img/Globo1.png" group-title="TV ABERTA",Globo SP (FaustinoTV)
+http://144.217.181.63:25461/live/bztodQJQK8/N7NvhkF3XJ/200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="http://faustinotv.tk/img/Globo1.png" group-title="TV ABERTA",Globo RBS Porto Alegre (FaustinoTV)
+http://18.217.145.10:8081/live/0I6stIrYwI/ibNy02JXLy/49.ts
+#EXTINF:-1 tvg-ID="" tvg-logo="http://faustinotv.tk/img/Globo1.png" group-title="TV ABERTA",Globo Brasília (FaustinoTV)
+http://18.217.145.10:8081/live/0I6stIrYwI/ibNy02JXLy/54.ts
+#EXTINF:-1 tvg-ID="" tvg-logo="http://faustinotv.tk/img/Globo1.png" group-title="TV ABERTA",Globo Minas (FaustinoTV)
+http://18.217.145.10:8081/live/0I6stIrYwI/ibNy02JXLy/52.ts
+#EXTINF:-1 tvg-ID="" tvg-logo="http://www.faustinotv.tk/img/Record1.png" group-title="TV ABERTA",Record TV (FaustinoTV)
+http://18.217.145.10:8081/live/0I6stIrYwI/ibNy02JXLy/20.ts
+#EXTINF:-1 tvg-ID="" tvg-logo="http://www.faustinotv.tk/img/SBT1.png" group-title="TV ABERTA",SBT (FaustinoTV)
+http://18.217.145.10:8081/live/0I6stIrYwI/ibNy02JXLy/18.ts
+#EXTINF:-1 tvg-ID="" tvg-logo="http://www.faustinotv.tk/img/viva1.png" group-title="TV ABERTA",Viva (FaustinoTV)
+http://18.217.145.10:8081/live/0I6stIrYwI/ibNy02JXLy/3.ts
