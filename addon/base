@@ -4,15 +4,6 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Big Brother Brasil 2019[/COLOR][/B]</name>
-<externallink>http://kodi.faustino.ninja/bbb.xml</externallink>
-<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
-[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
-<fanart>https://tinyurl.com/y8svb3gx</fanart>
-<thumbnail>https://tinyurl.com/y7joofv9</thumbnail>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]TV ao Vivo[/COLOR][/B]</name>
 <externallink>http://kodi.faustino.ninja/canais/base_canais.xml</externallink>
 <genre>Canais Abertos, Filmes, Séries e muito mais</genre>
