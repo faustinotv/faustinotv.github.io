@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ADDON EM MANUTENÇÃO
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZE SEU ADDON
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/B11rADoUm" group-title="** INFORMAÇÕES **",VOLTAREMOS EM BREVE
+#EXTINF:-1 tvg-logo="https://i.upimg.com/B11rADoUm" group-title="** INFORMAÇÕES **",http://faustinotv.tk/Addon.zip
 http://127.0.0.2
