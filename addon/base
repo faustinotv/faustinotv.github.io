@@ -1,7 +1,50 @@
-#EXTM3U
+<layoutype>list</layoutype>
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZE SEU ADDON
-http://127.0.0.1
+<channels>
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/B11rADoUm" group-title="** INFORMAÇÕES **",http://faustinotv.tk/Addon.zip
-http://127.0.0.2
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]TV ao Vivo[/COLOR][/B]</name>
+<externallink>https://tinyurl.com/yykx5lhh</externallink>
+<genre>Canais Abertos, Filmes, Séries e muito mais</genre>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/ByMtDcvs7</fanart>
+<thumbnail>https://i.upimg.com/rJrXzswo7</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Filmes [/COLOR][/B]</name>
+<externallink>https://tinyurl.com/yyrdlsqt</externallink>
+<genre>Lançamentos, Clássicos, Ação, Suspense, Policial</genre>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/S1ci69vsm</fanart>
+<thumbnail>https://i.upimg.com/SyN4Mjwsm</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Séries [/COLOR][/B]</name>
+<externallink>https://tinyurl.com/yy2tswqr</externallink>
+<genre>As melhores séries pra você!</genre>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/H1N0a5vsQ</fanart>
+<thumbnail>https://i.upimg.com/B1gLzivs7</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Novelas[/COLOR][/B]</name>
+<externallink>https://tinyurl.com/y4c7lbfb</externallink>
+<genre>As novelas que marcaram as gerações</genre>
+<fanart>https://tinyurl.com/y5k53ngp</fanart>
+<thumbnail>https://tinyurl.com/y5k53ngp</thumbnail>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+
+
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/HJXjsYYFX</fanart>
+<thumbnail></thumbnail>
+</channel>
