@@ -1,88 +1,13 @@
-<layoutype>list</layoutype>
+<channels>
+</channels><channel>
+<name>[I][B][COLOR red]Aviso Importante![/COLOR][/I][/B]</name>********************************************************************************
+
+<item>
+<title>[I][B][COLOR red]Aviso Importante CLIQUE AQUI![/COLOR][/I][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLGeQqr4u4Q5W591bmJgSvxA6fvn-uyzKV/?page=0</jsonrpc>
+<thumbnail>https://i97.servimg.com/u/f97/19/82/45/70/whatsa15.jpg</thumbnail>
+<fanart>https://i97.servimg.com/u/f97/19/82/45/70/whatsa15.jpg</fanart>
+</item>
 
 <channels>
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Copa do Brasil[/COLOR][/B]</name>
-<externallink></externallink>
-<genre>Futebol</genre>
-<info>Corinthians vs Flamengo</info>
-<fanart>https://tinyurl.com/y4w6tz3d</fanart>
-<thumbnail>http://tinyurl.com/yynnhnnr</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]UFC 237[/COLOR][/B]</name>
-<externallink></externallink>
-<genre>LUTAS</genre>
-<info>Namajunas vs. Andrade é um evento de artes marciais mistas que será lançado pelo Ultimate Fighting Championship e que acontecerá em 11 de maio de 2019 na Jeunesse Arena, no Rio de Janeiro, Brasil.</info>
-<fanart>https://tinyurl.com/y675rj54</fanart>
-<thumbnail>https://tinyurl.com/yyxce4fr</thumbnail>
-</channel>
-
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]GAME OF TRHONES[/COLOR][/B]</name>
-<externallink></externallink>
-<genre>SÉRIE</genre>
-<info>GAME OF THRONES AO VIVO</info>
-<fanart>https://i.upimg.com/ByMtDcvs7</fanart>
-<thumbnail>https://tinyurl.com/y6hlore4</thumbnail>
-</channel>
-
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]TV ao Vivo[/COLOR][/B] [I]Atualizado em 04/06/2019[/I]</name>
-<externallink>https://tinyurl.com/yy9kvdfo</externallink>
-<genre>Canais Abertos, Filmes, Séries e muito mais</genre>
-<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
-
-[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
-<fanart>https://i.upimg.com/ByMtDcvs7</fanart>
-<thumbnail>https://i.upimg.com/rJrXzswo7</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Filmes [/COLOR][/B]</name>
-<externallink>https://tinyurl.com/yyrdlsqt</externallink>
-<genre>Lançamentos, Clássicos, Ação, Suspense, Policial</genre>
-<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
-
-[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
-<fanart>https://i.upimg.com/S1ci69vsm</fanart>
-<thumbnail>https://i.upimg.com/SyN4Mjwsm</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Séries [/COLOR][/B]</name>
-<externallink>https://tinyurl.com/yy2tswqr</externallink>
-<genre>As melhores séries pra você!</genre>
-<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
-
-[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
-<fanart>https://i.upimg.com/H1N0a5vsQ</fanart>
-<thumbnail>https://i.upimg.com/B1gLzivs7</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Novelas[/COLOR][/B]</name>
-<externallink>https://tinyurl.com/y4c7lbfb</externallink>
-<genre>As novelas que marcaram as gerações</genre>
-<fanart>https://tinyurl.com/y5k53ngp</fanart>
-<thumbnail>https://tinyurl.com/y5k53ngp</thumbnail>
-<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
-
-
-[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
-<fanart>https://i.upimg.com/HJXjsYYFX</fanart>
-<thumbnail></thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]DESENHOS 24h[/COLOR][/B]</name>
-<externallink>https://tinyurl.com/y22amxzr</externallink>
-<genre></genre>
-<fanart></fanart>
-<thumbnail>https://i.upimg.com/m7ZeyMMg4</thumbnail>
-<info></info>
-</channel>
