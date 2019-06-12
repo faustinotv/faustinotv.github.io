@@ -3,6 +3,15 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Copa América 2019[/COLOR][/B] [I].-Em Breve-.[/I]</name>
+<externallink>http://127.0.0.1</externallink>
+<genre>Futebol</genre>
+<info>Corinthians vs Flamengo</info>
+<fanart>https://i.imgur.com/s4NkM9t.jpg</fanart>
+<thumbnail>https://i.imgur.com/pmL7bAo.png</thumbnail>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Copa do Brasil[/COLOR][/B]</name>
 <externallink></externallink>
 <genre>Futebol</genre>
@@ -19,17 +28,6 @@
 <fanart>https://tinyurl.com/y675rj54</fanart>
 <thumbnail>https://tinyurl.com/yyxce4fr</thumbnail>
 </channel>
-
-
-<channel>
-<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]GAME OF TRHONES[/COLOR][/B]</name>
-<externallink></externallink>
-<genre>SÉRIE</genre>
-<info>GAME OF THRONES AO VIVO</info>
-<fanart>https://i.upimg.com/ByMtDcvs7</fanart>
-<thumbnail>https://tinyurl.com/y6hlore4</thumbnail>
-</channel>
-
 
 <channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]TV ao Vivo[/COLOR][/B] [I]Atualizado em 04/06/2019[/I]</name>
