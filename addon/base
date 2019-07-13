@@ -2,14 +2,14 @@
 
 <channels>
 
-<item>
+<channel>
 <name>[COLOR lime]****[COLOR cyan] Ultra Music Festival [COLOR yellow]Ao Vivo [COLOR lime]****[/COLOR]</name>
-<link>https://www.youtube.com/watch?v=$XE8CzUbmsRk</link>
+<externallink>https://www.youtube.com/watch?v=$XE8CzUbmsRk</externallink>
 <genre>Music</genre>
 <info>The world's premier electronic music festival, boasting elite DJs and unparalleled production located in the beautiful city of Miami.</info>
 <fanart>https://i.imgur.com/xYysXiK.jpg</fanart>
 <thumbnail>https://i.imgur.com/iD3oE98.jpg</thumbnail>
-</item>
+</channel>
 
 <channel>
 <name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Copa do Brasil[/COLOR][/B]</name>
