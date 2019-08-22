@@ -3,17 +3,75 @@
 <channels>
 
 <channel>
-<name>[B][COLOR cyan]EM MANUTENÇÃO[/COLOR][/B]</name>
-<externallink>http://127.0.0.1</externallink>
-<info>VOLTAREMOS EM BREVE</info>
-<fanart>  </fanart>
-<thumbnail>  </thumbnail>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Copa do Brasil[/COLOR][/B]</name>
+<externallink></externallink>
+<genre>Futebol</genre>
+<info>Corinthians vs Flamengo</info>
+<fanart>https://tinyurl.com/y4w6tz3d</fanart>
+<thumbnail>http://tinyurl.com/yynnhnnr</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]VOLTAREMOS EM BREVE[/COLOR][/B]</name>
-<externallink>http://127.0.0.1</externallink>
-<info>VOLTAREMOS EM BREVE</info>
-<fanart>  </fanart>
-<thumbnail>  </thumbnail>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]UFC 239[/COLOR][/B]</name>
+<externallink></externallink>
+<genre>LUTAS</genre>
+<info>NUFC 239: Jones vs. Santos é o próximo evento de artes marciais mistas produzido pelo Ultimate Fighting Championship que irá acontecer a 6 de julho de 2019 no T-Mobile Arena em Las Vegas, Nevada</info>
+<fanart>https://i.imgur.com/AmOE257.jpg</fanart>
+<thumbnail>https://i.imgur.com/oCwkm8D.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]TV ao Vivo[/COLOR][/B]</name>
+<externallink>http://faustinotv.tk/c/GUB8o</externallink>
+<genre>Canais Abertos, Filmes, Séries e muito mais</genre>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.imgur.com/KtsaJjR.jpg</fanart>
+<thumbnail>https://i.imgur.com/iHlSuBM.png</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Filmes [/COLOR][/B]</name>
+<externallink>http://faustinotv.tk/c/9V59v</externallink>
+<genre>Lançamentos, Clássicos, Ação, Suspense, Policial</genre>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.imgur.com/KtsaJjR.jpg</fanart>
+<thumbnail>https://i.imgur.com/droChmR.png</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Séries [/COLOR][/B]</name>
+<externallink>http://faustinotv.tk/c/2ez7B</externallink>
+<genre>As melhores séries pra você!</genre>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.imgur.com/KtsaJjR.jpg</fanart>
+<thumbnail>https://i.imgur.com/tNex1IC.png</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Novelas[/COLOR][/B]</name>
+<externallink>https://tinyurl.com/y4c7lbfb</externallink>
+<genre>As novelas que marcaram as gerações</genre>
+<fanart>https://i.imgur.com/KtsaJjR.jpg</fanart>
+<thumbnail>https://i.imgur.com/0mvpLsT.png</thumbnail>
+<info>[COLOR yellow]Assine nossa Lista Premium Sem travas[/COLOR]
+
+
+[B][COLOR lime]WhatsApp: (47)99204-5721[/COLOR][/B]</info>
+<fanart>https://i.upimg.com/HJXjsYYFX</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]Sessão Kids[/COLOR][/B]</name>
+<externallink>http://faustinotv.tk/c/u57Z9</externallink>
+<genre>KIDS</genre>
+<fanart>https://i.imgur.com/KtsaJjR.jpg</fanart>
+<thumbnail>https://i.imgur.com/qkLyqfp.png</thumbnail>
+<info></info>
 </channel>
