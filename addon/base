@@ -21,7 +21,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]INSTALE VIA REPOSITÓRIO[/COLOR][/B]</name>
+<name>[B][COLOR cyan]INSTALE VIA REPOSITÓRIO[/COLOR][/B]</name>
 <externallink>http://127.0.0.3</externallink>
 <genre></genre>
 <info>NOVO REPOSITÓRIO</info>
@@ -32,6 +32,15 @@
 <channel>
 <name>[B][COLOR yellow]http://repo.faustino.ninja/[/COLOR][/B]</name>
 <externallink>http://127.0.0.4</externallink>
+<genre></genre>
+<info>NOVO REPOSITÓRIO</info>
+<fanart>https://i.imgur.com/uryODaw.png</fanart>
+<thumbnail>https://i.imgur.com/x358Jmp.png</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]====================[/COLOR][/B]</name>
+<externallink>http://127.0.0.1</externallink>
 <genre></genre>
 <info>NOVO REPOSITÓRIO</info>
 <fanart>https://i.imgur.com/uryODaw.png</fanart>
