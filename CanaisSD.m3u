@@ -219,3 +219,5 @@ http://4f.rs:80/02031484/74554729/209187.ts
 http://4f.rs:80/02031484/74554729/209190.ts
 #EXTINF:-1,WOOHOO SD
 http://4f.rs:80/02031484/74554729/209193.ts
+#EXTINF:-1,RÁDIO JOVEM PAN
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1670748220/ei/3EOVY9HqHoGhwQTjvZ7oCw/ip/177.19.228.199/id/UYRMqnAl308.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-b8u-co0e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/t8/mm/44/mn/sn-b8u-co0e/ms/lva/mv/u/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1670725394/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAIvaVV-O8t1uYqNTRCOtrtyPIjkCOy4OWcH16re4FA00AiEA5MuKDevQP6RWzCPJ-Hb4J7hKFSGLMFpSdArg_ix4QTE%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgCT_K916bKX_GBwQt68g-7R8r3D6NvNPBzKU37eRVj04CIQC0bSScODvHb5qa9PiWVtSA5pHC5dZ8BsG-94bkoCzf5A%3D%3D/playlist/index.m3u8
