@@ -57,3 +57,7 @@ http://4f.rs:80/02031484/74554729/209190.ts
 http://4f.rs:80/02031484/74554729/99109.ts
 #EXTINF:-1,NDTV BLUMENAU
 https://caikron.com.br:19360/blumenau/blumenau.m3u8
+###################################
+###################################
+#EXTINF:-1 tvg-name=""MTV00s.uk" group-title="F4M",MTV'S 00 HD
+plugin://plugin.video.f4mTester/?url=http://4f.rs:80/02031484/74554729/209183.ts
