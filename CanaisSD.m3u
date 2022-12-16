@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AEBrazil.br" "group-title="FILMES e SÉRIES",A&E SD
+#EXTINF:-1 tvg-name="AEBrazil.br" tvg-logo="https://tinyurl.com/2s3aur8t" "group-title="FILMES e SÉRIES",A&E SD
 http://4f.rs:80/02031484/74554729/208851.ts
-#EXTINF:-1 tvg-name="AMCBrazil.br" group-title="FILMES e SÉRIES,AMC SD
+#EXTINF:-1 tvg-name="AMCBrazil.br" tvg-logo="https://tinyurl.com/bdhj62s5" group-title="FILMES e SÉRIES,AMC SD
 http://4f.rs:80/02031484/74554729/208854.ts
-#EXTINF:-1 tvg-name="AnimalPlanetBrazil.br" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
+#EXTINF:-1 tvg-name="AnimalPlanetBrazil.br" tvg-logo=" " group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
 http://4f.rs:80/02031484/74554729/208857.ts
-#EXTINF:-1 tvg-name="AXNBrazil.br" group-title="FILMES e SÉRIES,AXN SD
+#EXTINF:-1 tvg-name="AXNBrazil.br" tvg-logo="https://tinyurl.com/yc5tc95x" group-title="FILMES e SÉRIES,AXN SD
 http://4f.rs:80/02031484/74554729/208863.ts
-#EXTINF:-1 tvg-name=" " group-title="ESPORTES",COMBATE SD
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title="ESPORTES",COMBATE SD
 http://4f.rs:80/02031484/74554729/208899.ts
 #EXTINF:-1 tvg-name="ComedyCentralBrazil.br" group-title="VARIEDADES",COMEDY CENTRAL SD
 http://4f.rs:80/02031484/74554729/208902.ts
