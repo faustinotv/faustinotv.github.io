@@ -3,62 +3,94 @@
 #########CANAIS BLUMENAU###########
 #EXTINF:-1 tvg-ID="NSCTVBlumenau.br" tvg-logo="https://tinyurl.com/2p8ysrst" "group-title="TV ABERTA",GLOBO NSC BLUMENAU HD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/1482671.ts
+
 #EXTINF:-1,NDTV BLUMENAU
 https://caikron.com.br:19360/blumenau/blumenau.m3u8
+
 ###################################
 #EXTINF:-1 tvg-ID="AEBrazil.br" tvg-logo="https://tinyurl.com/2s3aur8t" "group-title="FILMES e SÉRIES",A&E SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208851.ts
+
 #EXTINF:-1 tvg-ID="AMCBrazil.br" tvg-logo="https://tinyurl.com/bdhj62s5" group-title="FILMES e SÉRIES,AMC SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208854.ts
+
 #EXTINF:-1 tvg-ID="AnimalPlanetBrazil.br" tvg-logo=" " group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208857.ts
+
 #EXTINF:-1 tvg-ID="AXNBrazil.br" tvg-logo="https://tinyurl.com/yc5tc95x" group-title="FILMES e SÉRIES,AXN SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208863.ts
+
 #EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="ESPORTES",COMBATE SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208899.ts
-#EXTINF:-1 tvg-ID="ComedyCentralBrazil.br" group-title="VARIEDADES",COMEDY CENTRAL SD
+
+#EXTINF:-1 tvg-ID="ComedyCentralBrazil.br" tvg-logo="https://tinyurl.com/5ymhs92j" group-title="VARIEDADES",COMEDY CENTRAL SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208902.ts
-#EXTINF:-1 tvg-ID=" " group-title=" ",JOVEM PAN NEWS SD
+
+#EXTINF:-1 tvg-ID="JPNews.br" tvg-logo="https://tinyurl.com/bd5epz3u" group-title=" ",JOVEM PAN NEWS SD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-#EXTINF:-1 tvg-ID=""MTV00s.uk" group-title="VARIEDADES",MTV'S 00 HD
+
+#EXTINF:-1 tvg-ID=""MTV00s.uk" tvg-logo="https://tinyurl.com/59dearzw"  group-title="VARIEDADES",MTV'S 00 HD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209183.ts
-#EXTINF:-1 tvg-ID="Multishow.br" group-title="VARIEDADES",MULTSHOW SD
+
+#EXTINF:-1 tvg-ID="Multishow.br" tvg-logo=" "  group-title="VARIEDADES",MULTSHOW SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209040.ts
-#EXTINF:-1 tvg-ID=" " group-title=" ",MUSIC BOX BRAZIL SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" "  group-title=" ",MUSIC BOX BRAZIL SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209196.ts
-#EXTINF:-1 tvg-ID="NationalGeographicBrazil.br" group-title="DOCUMENTÁRIOS",NATGEO SD
+
+#EXTINF:-1 tvg-ID="NationalGeographicBrazil.br" tvg-logo=" " group-title="DOCUMENTÁRIOS",NATGEO SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209049.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,SONY CHANNEL SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" "  group-title="FILMES e SÉRIES,SONY CHANNEL SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208887.ts
-#EXTINF:-1 tvg-ID="SpaceBrazil.br" group-title="FILMES e SÉRIES,SPACE SD
+
+#EXTINF:-1 tvg-ID="SpaceBrazil.br" tvg-logo=" " group-title="FILMES e SÉRIES,SPACE SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209103.ts
-#EXTINF:-1 tvg-IDSporTV.br " group-title="ESPORTES",SPORTV 1 SD
+
+#EXTINF:-1 tvg-ID"SporTV.br" tvg-logo=" " group-title="ESPORTES",SPORTV 1 SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209112.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,STAR CHANNEL SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,STAR CHANNEL SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/396721.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,STUDIO UNIVERSAL SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,STUDIO UNIVERSAL SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209127.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,SYFY SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,SYFY SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209130.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,TELECINE ACTION SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,TELECINE ACTION SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/443308.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,TELECINE CULT SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,TELECINE CULT SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209139.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,TELECINE FUN SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,TELECINE FUN SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209142.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,TELECINE PREMIUM SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,TELECINE PREMIUM SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209148.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,TELECINE TOUCH SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,TELECINE TOUCH SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209151.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,TNT SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,TNT SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209157.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,TNT SERIES SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,TNT SERIES SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209160.ts
-#EXTINF:-1,TOONCAST SD
+
+#EXTINF:-1 tvg-ID="  " tvg-logo=" " ,TOONCAST SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/198307.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,UNIVERSAL TV SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,UNIVERSAL TV SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209181.ts
-#EXTINF:-1 tvg-ID=" " group-title="FILMES e SÉRIES,WARNER CHANNEL SD
+
+#EXTINF:-1 tvg-ID=" " tvg-logo=" " group-title="FILMES e SÉRIES,WARNER CHANNEL SD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/209190.ts
-#EXTINF:-1,TRUTV HD
+
+#EXTINF:-1 tvg-ID="truTVBrazil.br" tvg-logo="https://tinyurl.com/4vxnyc9b" group-title="VARIEDADES,TRUTV HD
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/99109.ts
+
+
+tvg-ID="  " tvg-logo="  "
