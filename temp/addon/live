@@ -16,20 +16,6 @@
 </item>
 
 <item>
-<title>[B][COLOR yellow]||||||| BIG BROTHER 2021 |||||||[/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
-<link>here</link>
-</item>
-
-<item>
-<title>[B][COLOR white]Câmera Principal[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://m3u9.ml/a2/hls1/mtvlive.m3u8?mu3zAQc9HC3GbwJq=wmEFtyh7yBdQKIgYKsyA7A&3U1G7qaTxrPbalZnEx=1652736827|User-Agent=Mozilla/5.0&amp;Referer=https://sinalpublico.com/player3/ch.php?canal=mtvlive</link>
-<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
-<thumbnail>https://i.imgur.com/lHXNFSk.png</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR yellow]||||||| CANAIS | TV ABERTA |||||||[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/XbxnDT6.png</fanart>
@@ -94,15 +80,15 @@
 </item>
 
 <item>
-<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://geralorigin.eu-central-1.edge.mycdn.live:443/live/aehd/video.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://canaismax.com/</link>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208851.ts</link>
 <fanart>https://i.imgur.com/XbxnDT6.png</fanart>
 <thumbnail>https://i.imgur.com/QNqJK6B.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdn.esporteone.com/AMC/video.m3u8|User-Agent=Mozilla/5.0&amp;Referer=https://esporteone.com/player/canais.php?canal=AMC</link>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://4f.rs:80/02031484/74554729/208854.ts</link>
 <fanart>https://i.imgur.com/XbxnDT6.png</fanart>
 <thumbnail>https://i.imgur.com/NddUsGi.png</thumbnail>
 </item>
