@@ -1,23 +1,28 @@
-<item>
-<title>Canais | Documentarios</title>
-<link>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/temp/addon/Canais-DOC</link>
-<thumbnail>https://i.imgur.com/kRvPvOJ.png</thumbnail>
-<fanart>https://i.imgur.com/DH3Qp4z.png</fanart>
-<info>...</info>
-</item>
+<layouttype>list</layouttype>
 
-<item>
-<title>Vevo 2</title>
-<link>https://link-do.m3u8|User-Agent=ExoMedia</link>
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Canais | Documentarios[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/faustinotv/faustinotv.github.io/master/temp/addon/Canais-DOC</externallink>
 <thumbnail>https://i.imgur.com/kRvPvOJ.png</thumbnail>
 <fanart>https://i.imgur.com/DH3Qp4z.png</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
+<info>faustinotv</info>
+</channel>
 
-<item>
-<title>Vevo 3 - Link .ts</title>
-<link>plugin://plugin.video.f4mTester/?url=LINK DO CANAL COM .ts NO FINAL</link>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MOVIES[/COLOR][/B]</name>
+<externallink>https://pastebin.com/raw/VFcESdpS</externallink>
 <thumbnail>https://i.imgur.com/kRvPvOJ.png</thumbnail>
 <fanart>https://i.imgur.com/DH3Qp4z.png</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
+<info>faustinotv</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]YOUTUBE[/COLOR][/B]</name>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<thumbnail>https://i.imgur.com/kRvPvOJ.png</thumbnail>
+<fanart>https://i.imgur.com/DH3Qp4z.png</fanart>
+<info>faustinotv</info>
+</channel>
+
+</channels>
