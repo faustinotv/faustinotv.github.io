@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3678
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/4053
+#EXTINF:-1,ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/4532
+#EXTINF:-1,ESPN 2 [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/71047
+#EXTINF:-1,ESPN 3 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3683
+#EXTINF:-1,ESPN 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/71044
+#EXTINF:-1,ESPN 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3682
+#EXTINF:-1,ESPN 3 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/4526
+#EXTINF:-1,ESPN 4 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/91294
+#EXTINF:-1,ESPN 4 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/91292
+#EXTINF:-1,ESPN 4 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/72299
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/4054
+#EXTINF:-1,ESPN Extra FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/71046
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/28850
+#EXTINF:-1,ESPN Extra SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/28851
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/72298
+#EXTINF:-1,ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/72301
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3687
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/72300
+#EXTINF:-1,BandSports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/4030
+#EXTINF:-1,BandSports FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/71023
+#EXTINF:-1,BandSports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3572
+#EXTINF:-1,BandSports SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/4504
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3669
+#EXTINF:-1,Combate FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/71031
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3670
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/4506
+#EXTINF:-1,Fight Box HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/261978
+#EXTINF:-1,Fight Network HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/261963
+#EXTINF:-1,Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3692
+#EXTINF:-1,Fox Sports 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/71050
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/3693
+#EXTINF:-1,Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/4508
+#EXTINF:-1,Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://lxls.mx:80/baldiotesogra/rthyrfthfrh/91293
