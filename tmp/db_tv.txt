@@ -1,0 +1,11 @@
+<canal>
+<canais>
+<name>SERVIDOR01</name>
+<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://paste.kodi.tv/raw/zecitojawa</externallink>
+<info>__</info>
+<genre>teste</genre>
+</canal>
+</canais>
