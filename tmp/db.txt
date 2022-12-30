@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>lista</layoutype>
+ 
+<canais>
+<canal>
+<name>[COLOR white][B]Bem Vindo[/B][/COLOR]</name>
+<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://127.0.0.1</externallink>
+<info>teste</info>
+</canal>
+</canais>
+ 
+ 
+<canais>
+<canal>
+<name>tv ao vivo</name>
+<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>___</externallink>
+<info>teste</info>
+</canal>
+</canais>
