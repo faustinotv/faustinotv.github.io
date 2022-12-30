@@ -2,27 +2,27 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV ao VIVO[/COLOR][/B]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] TV AO VIVO[/COLOR][/B]</name>
 <externallink>https://paste.kodi.tv/raw/wipeboqawu</externallink>
-<fanart>https://images2.imgbox.com/ef/1a/wvSAAAQe_o.png</fanart>
-<info>portugalkodi.com</info>
+<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
+<thumbnail>https://i.imgur.com/Q2IJuNi.png</thumbnail>
+<info>faustino.tv</info>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]MOVIES[/COLOR][/B]</name>
-<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] FILMES // [/COLOR][/B]em breve</name>
 <externallink>https://pastebin.com/raw/VFcESdpS</externallink>
-<fanart>https://images2.imgbox.com/ef/1a/wvSAAAQe_o.png</fanart>
-<info>portugalkodi.com</info>
+<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
+<thumbnail>https://i.imgur.com/Q2IJuNi.png</thumbnail>
+<info>faustino.tv</info>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]YOUTUBE[/COLOR][/B]</name>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] SERIES //[/COLOR][/B]em breve</name>
 <externallink>https://pastebin.com/raw/qATfhjie</externallink>
-<fanart>https://images2.imgbox.com/ef/1a/wvSAAAQe_o.png</fanart>
-<info>portugalkodi.com</info>
+<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
+<thumbnail>https://i.imgur.com/Q2IJuNi.png</thumbnail>
+<info>faustino.tv</info>
 </channel>
 
 </channels>
