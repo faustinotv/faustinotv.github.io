@@ -1,4 +1,5 @@
 ---
+---
 {% assign doclist = site.pages | sort: 'url'  %}
     <ul>
        {% for doc in doclist %}
@@ -7,5 +8,12 @@
             {% endif %}
         {% endfor %}
     </ul>
----
 # FaustinoTV // O Retorno
+<body>
+  <h1>Index of /</h1>
+  <ul>
+    {% for url in site.static_files %}
+    <li><a href="{{ site.baseurl | escape }}{{ url.path | escape }}">{{ url.path | escape }}</a> </li>
+    {% endfor %}
+  </ul>
+</body>
