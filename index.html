@@ -1,19 +1,5 @@
----
----
-{% assign doclist = site.pages | sort: 'url'  %}
-    <ul>
-       {% for doc in doclist %}
-            {% if doc.name contains '.md' or doc.name contains '.html' %}
-                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.url }}</a></li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-# FaustinoTV // O Retorno
-<body>
-  <h1>Index of /</h1>
-  <ul>
-    {% for url in site.static_files %}
-    <li><a href="{{ site.baseurl | escape }}{{ url.path | escape }}">{{ url.path | escape }}</a> </li>
-    {% endfor %}
-  </ul>
-</body>
+theme: jekyll-theme-hacker
+<p>Como Instalar:&nbsp;</p>
+<p>Configura&ccedil;&otilde;es &gt;&gt; Gestor de Arquivos &gt;&gt; Adicionar Origem</p>
+<p>Informe o endere&ccedil;o: <a href="https://faustinotv.github.io/">https://faustinotv.github.io/</a> e o nome FaustinoTV</p>
+<p>Em addons, escolher a op&ccedil;&atilde;o instalar por aquivo zip, escolher a fonte FuastinoTV e instalar o arqivo <a class="js-navigation-open Link--primary" title="plugin.video.faustinotv.matrix.zip" href="https://github.com/faustinotv/faustinotv.github.io/blob/master/plugin.video.faustinotv.matrix.zip" data-turbo-frame="repo-content-turbo-frame">plugin.video.faustinotv.matrix.zip</a></p>
