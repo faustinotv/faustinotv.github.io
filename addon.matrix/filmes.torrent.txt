@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tinyurl.com/43535shm" group-title="FILMES 4K",Adão Negro
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aecc70cfb211f66f8d23834d634f78b827a3b9d4&dn=Black.Adam.2022.2160p.MA.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-CM&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2790&tr=udp%3A%2F%2F9.rarbg.to%3A2730&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15790&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3xauddpv" group-title="LANÇAMENTOS",RUÍDO BRANCO
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b4b2e86e47fb80f8aab59f08fa49bb43a441ab&dn=Ru%c3%addo%20Branco%202022%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
