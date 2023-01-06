@@ -1,22 +1,280 @@
 #EXTM3U
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="Informações",[B]LISTA ATUALIZADA EM 05/01/2023[/B]
+https://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YuJQR03.png" group-title="Informações",[B]Telegram: t.me/FaustinoTV[/B]
+https://127.0.0.3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sankwJD.jpg" group-title="Informações",[B]Doações: https://linktr.ee/faustinotv[/B]
+https://127.0.0.4
 
-#EXTINF:-1 group-title="Canais @ Variedades" tvg-logo="http://esrv.cc:80/images/13da29a69a286fb7687ad256ca72d073.png" ,A&E
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| TV ABERTA |||||||[/COLOR][/B]
+https://127.0.0.8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOTjtrp.png" ,[B]BAND[/B]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtH8wAm.png" ,[B]GLOBO RIO[/B]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj2CpP5.png" ,[B]RECORD TV[/B]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDMjRaf.png" ,[B]SBT[/B]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rUxEVr8.png" ,[B]REDE TV[/B]
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| FILMES E SERIES |||||||[/COLOR][/B]
+https://127.0.0.9
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/a&e.png",A&E
 https://embedsuper.ml/playlist/03a362f8432f9c98e7e0849d20281e66/b6127eb29a5010ecb08f5356eac9ffb5/master.txt?token=WGpNNmNjcVYyTEszRzVET2Nta3dFQT09OjqpR0J5RT6hnIdjkEji%2BiBD|Referer=https://embedsuper.ml/embed/82da5b84-2909-4ed7-bdea-37a591833d76
 
-#EXTINF:-1 group-title="Canais @ Documentários" tvg-logo="http://esrv.cc:80/images/aa3b36122c073f1a3a44cf93f62f4075.png",ANIMAL PLANET
-https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/d97a1fe5e138fa7984e65b24021c849d/master.m3u8?token=RG95WG96M2JLNVI0VVVsUkVydHlRdz09OjrhI9bsAS4qJ6zCdy8EL76%2B|Referer=https://tv.tvembed3.ml/embed/6d488e36-7182-4a97-b554-7a778461bfd8
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/amc.png",AMC
 
-#EXTINF:-1 group-title="Canais @ Variedades" tvg-logo="http://esrv.cc:80/images/fa7df80a1174273f0d4b9eeccc76af88.png" ,COMEDY CENTRAL
-https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/30910bd6644c63554451da1b82a05a05/master.m3u8?token=RG95WG96M2JLNVI0VVVsUkVydHlRdz09OjrhI9bsAS4qJ6zCdy8EL76%2B|Referer=https://tv.tvembed3.ml/embed/c7902b1a-cfa1-4a68-91bb-e0f64d39bbad
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/axn.png",AXN
 
-#EXTINF:-1 group-title="Canais @ Esportes" tvg-logo="http://esrv.cc:80/images/d3dcecfe8062d430ffb1e7f2868146d5.png" ,COMBATE
-https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/2febcf62f6430efe8da220c0b8721588/master.m3u8?token=cHpSaThySkxYKzBHell4djdVaTRUdz09OjqWcm%2BjlIyA%2BmvskliAj%2FIP|Referer=https://tv.tvembed3.ml/embed/930f729f-a4bd-41c4-8a26-786399a57cf0
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/cinemax.png",CINEMAX
 
-#EXTINF:-1 group-title="Canais @ Filmes e Séries" tvg-logo="http://esrv.cc:80/images/ea23b6efb6ae97a9a5350c2a4833270e.png" ,CINEMAX
-https://embedsuper.ml/playlist/03a362f8432f9c98e7e0849d20281e66/727cd7895ffc1537365dec73ebefea5d/master.txt?token=WGpNNmNjcVYyTEszRzVET2Nta3dFQT09OjqpR0J5RT6hnIdjkEji%2BiBD|Referer=https://embedsuper.ml/embed/7ddab399-b9b4-441e-ac24-3bbe6a42cd28
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/fox.png",FOX
 
-#EXTINF:-1 group-title="Canais @ Documentários" tvg-logo="http://esrv.cc:80/images/7712e244d8ddd3728605369a8163e9eb.png" ,National Geographic
-https://embedsuper.ml/playlist/03a362f8432f9c98e7e0849d20281e66/435ba3d8cf06e4fa8ee6dd2466f1f697/master.txt?token=WGpNNmNjcVYyTEszRzVET2Nta3dFQT09OjqpR0J5RT6hnIdjkEji%2BiBD|Referer=https://embedsuper.ml/embed/64dde306-6df9-4045-b47c-1a3df113e0ad
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/foxlife.png",FOX LIFE
 
-#EXTINF:-1 group-title="Canais @ Premiere" tvg-logo="http://esrv.cc:80/images/67ae14268fb7afe688c18dd17fe11688.png" ,Premiere Clubes HD
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/foxpremium1.png",FOX PREMIUM 1
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/foxpremium2.png",FOX PREMIUM 2
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/fx.png",FX
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/hbo.png",HBO
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/hbo2.png",HBO 2
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/hbofamily.png",HBO FAMILY
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/hboplus.png",HBO PLUS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7fbbzZZ.png",HBO MUNDI
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/hbosignature.png",HBO SIGNATURE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EcibDrQ.png",HBO XTREME
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/maxprime.png",MEGAPIX
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/space.png",SPACE
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/syfy.png",SYFY
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/telecineaction.png",TELECINE ACTION
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/telecinecult.png",TELECINE CULT
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/telecinefun.png",TELECINE FUN
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/telecinepipoca.png",TELECINE PIPOCA
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/telecinepremium.png",TELECINE PREMIUM
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/telecinetouch.png",TELECINE TOUCH
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/tnt.png",TNT
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/tntseries.png",TNT SERIES
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/tcm.png",TCM
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/paramount.png",PARAMOUNT
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/studiouniversal.png",STUDIO UNIVERSAL
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/universalchannel.png",UNIVERSAL CHANNEL
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/warner.png",WARNER CHANNEL
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| DOCUMENTÁRIOS |||||||[/COLOR][/B]
+https://127.0.0.10
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/animalplanet.png",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/discoverychannel.png",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/discoveryh&h.png",DISCOVERY H&H
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/discoveryscience.png",DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/discoverytheater.png",DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/discoveryturbo.png",DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/discoveryworld.png",DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/h2.png",H2
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/history.png",HISTORY
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/id.png",INVESTIGAÇÃO DISCOVERY
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/natgeowild.png",NATGEO WILD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/nationalgeographic.png",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/tlc.png",TLC
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/trutv.png",TRU TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| CANAIS INFANTIS |||||||[/COLOR][/B]
+https://127.0.0.19
+
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/babytv.png",BABY TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/boomerang.png",BOOMERANG
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/cartoon.png",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WK5imc9.png",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/disney.png",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/disneyjr.png",DISNEY JR
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/disneyxd.png",DISNEY XD
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/gloob.png",GLOOB
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/nickjr.png",NICK JR
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/nickelodeon.png",NICKELODEON
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sFwOnxG.png",Play Kids
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/tooncast.png",TOONCAST
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| ESPORTES |||||||[/COLOR][/B]
+https://127.0.0.11
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4AV04.jpg",DAZN 1
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7KKspx.jpg",BAND SPORTS
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg",COMBATE
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WNMRDTO.png",ESPN
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg",ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xk5zezL.png",ESPN EXTRA
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/espn2.png",ESPN 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg",FOX SPORTS
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg",FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg",SPORTV
+https://server100.online/sportv/tracks-v1a1/mono.m3u8?token=3b7139937829e4a076f7d074da81bc0960a06f2f-40c61baa5c2315ec6b7bcb573b988b5c-1672971029-1672963829|Referer=https://z.appmj.xyz/tv.php?canal=sportv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg",SPORTV 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg",SPORTV 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| PREMIERE |||||||[/COLOR][/B]
+https://127.0.0.11
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/premiere.png",PREMIERE  CLUBES HD
 https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/d976fe223f2df34925bbcdc2b8c52382/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://tv.tvembed3.ml/embed/bee0c87e-9dc1-4e6e-80a2-911b54e0f01b
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/premiere2.png",PREMIERE  2
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/premiere3.png",PREMIERE  3
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| VARIEDADES |||||||[/COLOR][/B]
+https://127.0.0.11
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/arte1.png",ARTE 1
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/comedycentral.png",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/bis.png",BIS
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/curta.png",CURTA
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1tvg-logo="http://i.imgur.com/yYmGNnQ.png",MULTISHOW
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/mtv.png",MTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/vh1.png",VH1 MEGAHITS
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/viva.png",VIVA
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| NOTÍCIAS |||||||[/COLOR][/B]
+https://127.0.0.11
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/bandnews.png",BAND NEWS
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/globonews.png",GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/recordnews.png",RECORD NEWS
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8TrDZi.png" ,CNN BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=HLSRETRY&amp;url=https://streaming.cnnbrasil.com.br/cnndigital_mainOutput3.m3u8
