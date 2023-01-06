@@ -13,13 +13,13 @@ https://127.0.0.8
 https://127.0.0.4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FtH8wAm.png" ,[B]GLOBO SP[/B]
-https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/92307083494e5204cf1e71fe534180ce/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=globosp
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/92307083494e5204cf1e71fe534180ce/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://tv.tvembed3.ml/embed/6847a55e-a440-46c7-a0fa-3ebcd28f6fe2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj2CpP5.png" ,[B]RECORD TV[/B]
-https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/534b5370e4d4d760b4f182fe33b583a7/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=RecordTVRJ
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/534b5370e4d4d760b4f182fe33b583a7/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://tv.tvembed3.ml/embed/f356ea58-a474-482f-a9a3-d8d8b29d7049
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDMjRaf.png" ,[B]SBT[/B]
-https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/81e30652742aa826553159efb6222e19/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=SBT
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/81e30652742aa826553159efb6222e19/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://tv.tvembed3.ml/embed/22a785c9-9f89-4fd3-85f9-e78abeb4e146
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rUxEVr8.png" ,[B]REDE TV[/B]
 http://127.0.0.2
@@ -155,7 +155,7 @@ plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/nationalgeographic.png",NATIONAL GEOGRAPHIC
-https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/435ba3d8cf06e4fa8ee6dd2466f1f697/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=NationalGeographic
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/435ba3d8cf06e4fa8ee6dd2466f1f697/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://tv.tvembed3.ml/embed/b3746279-02d6-4126-af95-aec84932e063
 
 #EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/tlc.png",TLC
 plugin://plugin.video.f4mTester/?name=[B][COLOR blue]FaustinoTV[/COLOR] - [COLOR yellow]Free4ALLL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=
