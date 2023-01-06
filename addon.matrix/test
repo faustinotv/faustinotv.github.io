@@ -28,8 +28,8 @@ http://127.0.0.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| FILMES E SERIES |||||||[/COLOR][/B]
 https://127.0.0.9
 
-#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/a&e.png",[B]A&E[/B]
-https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/b6127eb29a5010ecb08f5356eac9ffb5/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=aee
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/a&e.png",A&E
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/b6127eb29a5010ecb08f5356eac9ffb5/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://tv.tvembed3.ml/embed/fa290ee2-8665-440f-9b1a-51e662eb4450
 
 #EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/amc.png",AMC
 https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/752c39c6440135d3c051fb6d88f4a127/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|referer=https://canais.m3u8live.ml/v.php?id=amc
