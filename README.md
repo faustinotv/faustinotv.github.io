@@ -1,7 +1,21 @@
-Como Instalar: 
-
-- Configurações >> Gestor de Arquivos >> Adicionar Origem
-
-- Informe o endereço: <code>https://faustinotv.cloud</code> e o nome FaustinoTV
-
-- Em addons, escolher a opção instalar por aquivo zip, escolher a fonte FuastinoTV e instalar o arqivo <a href="plugin.video.faustinotv.matrix.zip">plugin.video.faustinotv.matrix.zip</a>
+<html>
+<head>
+<title>FaustinoTV</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+<center>
+<div class="w3-display-middle">
+<h1 class="w3-jumbo w3-animate-top w3-center"><code>Como instalar</code></h1>
+<p>* Configurações » Gestor de Arquivos » Adicionar Origem
+<p>* Informe o endereço: http://faustinotv.cloud e o nome FaustinoTV
+<p>* Em addons, escolher a opção instalar por aquivo zip
+<p>* Escolher a fonte FuastinoTV e instalar o arqivo plugin.video.faustinotv.matrix.zip
+<li><a href="plugin.video.faustinotv.matrix.zip">plugin.video.faustinotv.matrix.zip</a></li>
+</div>
+</center>
+</body>
+</html>
