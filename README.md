@@ -15,7 +15,3 @@
 <p>* Em addons, escolher a opção instalar por aquivo zip
 <p>* Escolher a fonte FuastinoTV e instalar o arqivo plugin.video.faustinotv.matrix.zip
 <li><a href="plugin.video.faustinotv.matrix.zip">plugin.video.faustinotv.matrix.zip</a></li>
-</div>
-</center>
-</body>
-</html>
