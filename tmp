@@ -1,0 +1,44 @@
+<layoutype>list</layoutype>
+
+<channels>
+
+</channels><channel>
+<name>CANAIS | TV ABERTA</name>
+<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
+<thumbnail>https://i.imgur.com/Q2IJuNi.png</thumbnail>
+<info>[B][COLOR white]ATENÇÃO: Não hospedamos nem temos ligação com nenhum dos conteúdos deste addon.
+
+Todo o conteúdo é encontrado livremente na internet. Utilizamos links de terceiros, portanto não nos responsabilizamos por eles![/COLOR][/B]</info>
+  <item>
+    <title>[B][COLOR greenyellow]LISTA ATUALIZADA EM 26/08/2020[/COLOR][/B]</title>
+    <link>https://127.0.0.1</link>
+	<thumbnail>https://i.imgur.com/UMu8hOz.png</thumbnail>
+	<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
+  </item>
+  <item>
+    <title>[B][COLOR tan]Telegram: t.me/FaustinoTV[/COLOR][/B]</title>
+	<thumbnail>https://i.imgur.com/nYmO4SM.png</thumbnail>
+	<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
+    <link>http://127.0.0.2</link>
+  </item>
+
+  <item>
+    <title>[B][COLOR white]BAND [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+    <link>http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8</link>
+	<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
+	<thumbnail>band.png</thumbnail>
+  </item>
+
+<item>
+	<title>[B][COLOR white]TRU TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+	<link>$doregex[FaustinoTV_Ch]</link>
+	<regex>
+	<name>FaustinoTV_Ch</name>
+	<expres>"(.*m3u8.*?)"</expres>
+	<page>https://megafilmeshdtv.net/filmes/tru-tv</page>
+	<referer>https://tv.tvembed3.ml</referer>
+	</regex>
+	<info></info>
+	<fanart>https://i.imgur.com/XbxnDT6.png</fanart>
+	<thumbnail>globo.png</thumbnail>
+</item>
