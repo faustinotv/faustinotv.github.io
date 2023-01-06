@@ -4,8 +4,6 @@
 https://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YuJQR03.png" group-title="Informações",[B]Telegram: t.me/FaustinoTV[/B]
 https://127.0.0.3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sankwJD.jpg" group-title="Informações",[B]Doações: https://linktr.ee/faustinotv[/B]
-https://127.0.0.4
 
 ###############################################################  ###########################################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| TV ABERTA |||||||[/COLOR][/B]
@@ -13,14 +11,17 @@ https://127.0.0.8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOTjtrp.png" ,[B]BAND[/B]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FtH8wAm.png" ,[B]GLOBO RIO[/B]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtH8wAm.png" ,[B]GLOBO SP[/B]
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/92307083494e5204cf1e71fe534180ce/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=globosp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj2CpP5.png" ,[B]RECORD TV[/B]
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/534b5370e4d4d760b4f182fe33b583a7/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=RecordTVRJ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDMjRaf.png" ,[B]SBT[/B]
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/81e30652742aa826553159efb6222e19/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=SBT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rUxEVr8.png" ,[B]REDE TV[/B]
-
+http://127.0.0.2
 
 ###############################################################  ###########################################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png",[B][COLOR yellow]||||||| FILMES E SERIES |||||||[/COLOR][/B]
@@ -59,7 +60,8 @@ https://embedsuper.ml/playlist/03a362f8432f9c98e7e0849d20281e66/b6127eb29a5010ec
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcibDrQ.png",HBO XTREME
 
-#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/maxprime.png",MEGAPIX
+#EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/megapix.png",MEGAPIX
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/6b2c279eecc4af11cd3d6de9a95f587b/master.m3u8?token=akFvMUZUV0pleXNZcG53UXZIUE5qUT09OjoaN0zpEOAhKQb5YqSHmZJf|Referer=https://canais.m3u8live.ml/v.php?id=Megapix
 
 #EXTINF:-1 tvg-logo="http://faustinotv.github.io/img/space.png",SPACE
 
