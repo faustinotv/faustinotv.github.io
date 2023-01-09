@@ -361,14 +361,14 @@ Full changelog here: https://github.com/xbmc/inputstream.ffmpegdirect/blob/Matri
     </extension>
 </addon>
 
-<addon id="plugin.video.faustinotv.matrix" name="[B][COLOR cyan]FaustinoTV[/COLOR][/B]" version="1.0.2+matrix.1" provider-name="tio jaime">
+<addon id="plugin.video.faustinotv.matrix" name="[B][COLOR cyan]FaustinoTV[/COLOR][/B]" version="1.0.3+matrix.1" provider-name="tio jaime">
 <requires>
 <import addon="script.module.six"/>
 <import addon="script.module.kodi-six"/>
 <import addon="script.module.requests" optional="true"/>
 <import addon="script.module.resolveurl" optional="true"/>
 <import addon="inputstream.ffmpegdirect" version="19.0.3"/>
-<import addon="script.module.inputstreamhelper"/>
+<import addon="script.module.inputstreamhelper" optional="true"/>/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="default.py">
 	<provides>video</provides>
