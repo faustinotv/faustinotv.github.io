@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.elementum2" name="ELEMENTUM REPOSITORY UNOFFICIAL" provider-name="Joel" version="1.0.1">
+  <requires>
+    <import addon="xbmc.addon" version="16.0.0" />
+    <import addon="script.module.six" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.addon.repository" name="ELEMENTUM REPOSITORY UNOFFICIAL">
+    <dir>
+      <info compressed="false">http://127.0.0.1:65110/elgatito/addons/addons.xml</info>
+      <checksum>http://127.0.0.1:65110/elgatito/addons/addons.xml.md5</checksum>
+      <datadir zip="true">http://127.0.0.1:65110/elgatito/addons/zips/</datadir>
+      <hashes>false</hashes>
+    </dir>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />  
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en_GB">Elementum</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets> 
+  </extension>
+</addon>
