@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol always="true">8</defaultcontrol>
+	
+	<onload>ClearProperty(dialogvideoinfo_art_blurred,home)</onload>
+	<onload>ClearProperty(dialogvideoinfo_art_color,home)</onload>
+	<onload>ClearProperty(dialogvideoinfo_art_color_noalpha,home)</onload>
+	<onunload>ClearProperty(dialogvideoinfo_art_blurred,home)</onunload>
+	<onunload>ClearProperty(dialogvideoinfo_art_color,home)</onunload>
+	<onunload>ClearProperty(dialogvideoinfo_art_color_noalpha,home)</onunload>
+	
+	
+	<onload condition="!Window.IsVisible(tvrecordings)">Control.SetFocus(888)</onload>
+	
+	<controls>
+		<control type="group">
+			<depth>DepthSideBlade</depth>
+			
+			<animation effect="fade" start="0" end="100" time="1000">WindowOpen</animation>
+			<animation effect="fade" start="100" end="0" time="600">WindowClose</animation>
+			
+			<!-- BACKGROUND -->
+			<control type="image">
+				<left>486</left>
+				<top>0</top>
+				<width>1280</width>
+				<height>720</height>
+				<texture>_added_img/1280x720_black.png</texture>
+			</control>
+			<!--
+			<control type="image">
+				<top>0</top>
+				<left>486</left>
+				<width>796</width>
+				<height>720</height>
+				<depth>DepthBackground</depth>
+				<aspectratio align="left" aligny="top">scale</aspectratio>
+				<texture>_added_img/noise00.png</texture>
+				<include>backgroundfade</include>
+				<animation effect="fade" end="25" time="0" condition="true">Conditional</animation>
+				<visible>!Skin.HasSetting(DialogVideoInfoMoodBackgroundDisable) + System.hasAddon(service.listitem.helper)</visible>
+			</control>
+			<control type="image">
+				<top>0</top>
+				<left>486</left>
+				<width>796</width>
+				<height>720</height>
+				<depth>DepthBackground</depth>
+				<aspectratio>stretch</aspectratio>
+				<texture>$INFO[Window(home).Property(dialogvideoinfo_art_blurred)]</texture>
+				<aspectratio align="left" aligny="top">stretch</aspectratio>
+				<include>backgroundfade</include>
+				<fadetime>FanartCrossfadeTime</fadetime>
+				<animation effect="fade" end="30" time="0" condition="true">Conditional</animation>
+				<visible>!Skin.HasSetting(DialogVideoInfoMoodBackgroundDisable) + System.hasAddon(service.listitem.helper)</visible>
+			</control>
+			<control type="image">
+				<top>0</top>
+				<left>486</left>
+				<width>800</width>
+				<height>100</height>
+				<texture>_added_img/posterwall_fadeout_new_dither_2.png</texture>
+				<aspectratio align="left" aligny="top">scale</aspectratio>
+				<visible>!Skin.HasSetting(DialogVideoInfoMoodBackgroundDisable) + System.hasAddon(service.listitem.helper)</visible>
+			</control>
+			-->
+			
+			<!-- BACKGROUND LEFT GREY -->
+			<control type="image">
+				<left>0</left>
+				<top>0</top>
+				<width>486</width>
+				<height>720</height>
+				<texture border="2">_added_img/1280x720_black.png</texture>
+				<animation effect="fade" end="60" time="0" condition="true">Conditional</animation>
+				<!--
+				<visible>Window.IsVisible(FullScreenVideo)</visible>
+				-->
+			</control>
+			
+			<!-- CLOSE BUTTON -->
+			<control type="button">
+				<description>Close Window button</description>
+				<left>1216</left>
+				<top>0</top>
+				<width>64</width>
+				<height>32</height>
+				<label></label>
+				<font></font>
+				<onclick>PreviousMenu</onclick>
+				<texturefocus>DialogCloseButton-focus.png</texturefocus>
+				<texturenofocus>DialogCloseButton.png</texturenofocus>
+				<onleft>9000</onleft>
+				<onright>9000</onright>
+				<onup>9000</onup>
+				<ondown>9000</ondown>
+				<visible>[System.GetBool(input.enablemouse) + Skin.HasSetting(ShowMouseControlButtons)]</visible>
+			</control>
+			
+			
+
+			
+			<control type="group">
+				
+				<animation effect="slide" start="794,0" end="0,0" time="750" tween="quadratic" easing="out">WindowOpen</animation>
+				<animation effect="slide" start="0,0" end="794,0" time="300" tween="quadratic" easing="out">WindowClose</animation>
+	
+				
+				<left>504</left>
+				<top>18</top>
+				<width>794</width>
+				<height>720</height>
+				
+				
+				
+				<!-- STANDARD -->
+				<control type="label">
+					<description>subheader label</description>
+					<left>36</left>
+					<top>5</top>
+					<width>700</width>
+					<height>200</height>
+					<label>$INFO[ListItem.ChannelName]</label>
+					<textcolor>grey3</textcolor>
+					<align>left</align>
+				</control>
+				
+				
+				
+				<control type="label">
+					<description>header label</description>
+					<left>36</left>
+					<top>40</top>
+					<width>716</width>
+					<height>38</height>
+					<font>Light30</font>
+					<label>$INFO[Listitem.Title]</label>
+					<align>left</align>
+					<textcolor>white</textcolor>
+					<scroll>true</scroll>
+				</control>
+				
+				<!-- BACKGROUND RIGHT TOP GREY LEFT STRIPE -->
+				<control type="image">
+					<left>36</left>
+					<top>100</top>
+					<width>6</width>
+					<height>150</height>
+					<texture border="2" colordiffuse="FF2b2b2b">_added_img/100x100_white.png</texture>
+				</control>
+				
+				
+				
+				
+				
+				<control type="group">
+					<top>20</top>
+					<left>0</left>
+					<include>VisibleFadeEffect</include>
+					
+					<control type="list" id="49">
+						<left>51</left>
+						<top>80</top><!-- 120 -->
+						<width>698</width><!-- 705 -->
+						<height>150</height><!-- 170 -->
+						
+						<onleft>9000</onleft>
+						<onright>9000</onright>
+						<onup>9000</onup>
+						<ondown>9000</ondown>
+						
+						<pagecontrol>80</pagecontrol>
+						<scrolltime>200</scrolltime>
+						
+						<itemlayout width="698" height="30">
+							<control type="label">
+								<left>5</left>
+								<top>0</top>
+								<width>160</width>
+								<height>30</height>
+								<font>Light20</font>
+								<align>left</align>
+								<aligny>center</aligny>
+								<textcolor>grey</textcolor>
+								<selectedcolor>selected</selectedcolor>
+								<info>ListItem.Label</info>
+							</control>
+							<control type="label">
+								<left>175</left>
+								<top>0</top>
+								<width>517</width><!-- 525 -->
+								<height>30</height>
+								<font>Light20</font>
+								<align>left</align>
+								<aligny>center</aligny>
+								<textcolor>white</textcolor>
+								<selectedcolor>white</selectedcolor>
+								<info>ListItem.Label2</info>
+							</control>
+							
+							
+							
+							<!-- LIVE RATINGS (OPTIONAL) -->
+							<control type="group">
+								<left>390</left>
+								<animation effect="slide" start="0,0" end="20,0" time="0" condition="String.IsEqual(System.Language,German) | String.IsEqual(System.Language,Russian) | String.IsEqual(System.Language,Dutch) | String.IsEqual(System.Language,Danish) | String.IsEqual(System.Language,Ukrainian)">Conditional</animation>
+								<visible>!String.IsEmpty(ListItem.Property(rottentomatoesaudience)) | !String.IsEmpty(ListItem.Property(rottentomatoes)) | !String.IsEmpty(ListItem.Property(metacritic)) | !String.IsEmpty(ListItem.Property(imdb))</visible>
+								
+								<!-- rottentomatoesaudience -->
+								<control type="group">
+									<left>0</left>
+									<visible>!String.IsEmpty(ListItem.Property(rottentomatoesaudience))</visible>
+									<control type="image">
+										<left>4</left>
+										<top>0</top>
+										<width>40</width>
+										<height>30</height>
+										<aspectratio>keep</aspectratio>
+										<texture>flagging/ratings/rottentomatoes_audience.png</texture>
+									</control>
+									<control type="label">
+										<left>42</left>
+										<top>0</top>
+										<width>100</width>
+										<height>30</height>
+										<font>Light20</font>
+										<align>left</align>
+										<aligny>center</aligny>
+										<textcolor>white</textcolor>
+										<selectedcolor>white</selectedcolor>
+										<label>$INFO[ListItem.Property(rottentomatoesaudience),,%]</label>
+									</control>
+									<animation effect="fade" start="0" end="100" time="500">Visible</animation>
+								</control>
+								
+								<!-- rottentomatoes -->
+								<control type="group">
+									<left>0</left>
+									<visible>!String.IsEmpty(ListItem.Property(rottentomatoes))</visible>
+									<control type="image">
+										<left>0</left>
+										<top>0</top>
+										<width>40</width>
+										<height>30</height>
+										<aspectratio>keep</aspectratio>
+										<texture>flagging/ratings/rottentomatoes.png</texture>
+									</control>
+									<control type="label">
+										<left>42</left>
+										<top>0</top>
+										<width>100</width>
+										<height>30</height>
+										<font>Light20</font>
+										<align>left</align>
+										<aligny>center</aligny>
+										<textcolor>white</textcolor>
+										<selectedcolor>white</selectedcolor>
+										<label>$INFO[ListItem.Property(rottentomatoes),,%]</label>
+									</control>
+									<animation effect="fade" start="0" end="100" time="500">Visible</animation>
+								</control>
+								
+								<!-- metacritic -->
+								<control type="group">
+									<left>96</left>
+									<visible>!String.IsEmpty(ListItem.Property(metacritic))</visible>
+									<control type="image">
+										<left>0</left>
+										<top>0</top>
+										<width>40</width>
+										<height>30</height>
+										<aspectratio>keep</aspectratio>
+										<texture>flagging/ratings/metacritic.png</texture>
+									</control>
+									<control type="label">
+										<left>38</left>
+										<top>0</top>
+										<width>100</width>
+										<height>30</height>
+										<font>Light20</font>
+										<align>left</align>
+										<aligny>center</aligny>
+										<textcolor>white</textcolor>
+										<selectedcolor>white</selectedcolor>
+										<label>$INFO[ListItem.Property(metacritic),,%]</label>
+									</control>
+									<animation effect="slide" start="0,0" end="-92,0" time="0" condition="String.IsEmpty(ListItem.Property(rottentomatoes))">Conditional</animation>
+									<animation effect="fade" start="0" end="100" time="500">Visible</animation>
+								</control>
+								
+								<!-- imdb -->
+								<control type="group">
+									<left>188</left>
+									<visible>!String.IsEmpty(ListItem.Property(imdb))</visible>
+									<control type="image">
+										<left>0</left>
+										<top>0</top>
+										<width>40</width>
+										<height>30</height>
+										<aspectratio>keep</aspectratio>
+										<texture>flagging/ratings/imdb.png</texture>
+									</control>
+									<control type="label">
+										<left>40</left>
+										<top>0</top>
+										<width>100</width>
+										<height>30</height>
+										<font>Light20</font>
+										<align>left</align>
+										<aligny>center</aligny>
+										<textcolor>white</textcolor>
+										<selectedcolor>white</selectedcolor>
+										<label>$INFO[ListItem.Property(imdb),,%]</label>
+									</control>
+									<animation effect="slide" start="0,0" end="-92,0" time="0" condition="![String.IsEmpty(ListItem.Property(rottentomatoes)) + String.IsEmpty(ListItem.Property(metacritic))] + [String.IsEmpty(ListItem.Property(rottentomatoes)) | String.IsEmpty(ListItem.Property(metacritic))]">Conditional</animation>
+									<animation effect="slide" start="0,0" end="-186,0" time="0" condition="String.IsEmpty(ListItem.Property(rottentomatoes)) + String.IsEmpty(ListItem.Property(metacritic))">Conditional</animation>
+									<animation effect="fade" start="0" end="100" time="500">Visible</animation>
+								</control>
+								
+							</control>
+							
+							
+							
+						</itemlayout>
+						<focusedlayout width="698" height="30">
+							<control type="image">
+								<left>0</left>
+								<top>0</top>
+								<width>698</width>
+								<height>30</height>
+								<visible>Control.HasFocus(49)</visible>
+								<texture border="4">MenuItemFO.png</texture>
+								<include>VisibleFadeEffect</include>
+							</control>
+							<control type="label">
+								<left>5</left>
+								<top>0</top>
+								<width>160</width>
+								<height>30</height>
+								<font>Light20</font>
+								<align>left</align>
+								<aligny>center</aligny>
+								<textcolor>grey</textcolor>
+								<selectedcolor>selected</selectedcolor>
+								<info>ListItem.Label</info>
+							</control>
+							<control type="label">
+								<left>175</left>
+								<top>0</top>
+								<width>517</width><!-- 525 -->
+								<height>30</height>
+								<font>Light20</font>
+								<align>left</align>
+								<aligny>center</aligny>
+								<textcolor>white</textcolor>
+								<selectedcolor>white</selectedcolor>
+								<info>ListItem.Label2</info>
+							</control>
+							
+							
+							
+							<!-- LIVE RATINGS (OPTIONAL) -->
+							<control type="group">
+								<left>390</left>
+								<animation effect="slide" start="0,0" end="20,0" time="0" condition="String.IsEqual(System.Language,German) | String.IsEqual(System.Language,Russian) | String.IsEqual(System.Language,Dutch) | String.IsEqual(System.Language,Danish) | String.IsEqual(System.Language,Ukrainian)">Conditional</animation>
+								<visible>!String.IsEmpty(ListItem.Property(rottentomatoesaudience)) | !String.IsEmpty(ListItem.Property(rottentomatoes)) | !String.IsEmpty(ListItem.Property(metacritic)) | !String.IsEmpty(ListItem.Property(imdb))</visible>
+								
+								<!-- rottentomatoesaudience -->
+								<control type="group">
+									<left>0</left>
+									<visible>!String.IsEmpty(ListItem.Property(rottentomatoesaudience))</visible>
+									<control type="image">
+										<left>4</left>
+										<top>0</top>
+										<width>40</width>
+										<height>30</height>
+										<aspectratio>keep</aspectratio>
+										<texture>flagging/ratings/rottentomatoes_audience.png</texture>
+									</control>
+									<control type="label">
+										<left>42</left>
+										<top>0</top>
+										<width>100</width>
+										<height>30</height>
+										<font>Light20</font>
+										<align>left</align>
+										<aligny>center</aligny>
+										<textcolor>white</textcolor>
+										<selectedcolor>white</selectedcolor>
+										<label>$INFO[ListItem.Property(rottentomatoesaudience),,%]</label>
+									</control>
+									<animation effect="fade" start="0" end="100" time="500">Visible</animation>
+								</control>
+								
+								<!-- rottentomatoes -->
+								<control type="group">
+									<left>0</left>
+									<visible>!String.IsEmpty(ListItem.Property(rottentomatoes))</visible>
+									<control type="image">
+										<left>0</left>
+										<top>0</top>
+										<width>40</width>
+										<height>30</height>
+										<aspectratio>keep</aspectratio>
+										<texture>flagging/ratings/rottentomatoes.png</texture>
+									</control>
+									<control type="label">
+										<left>42</left>
+										<top>0</top>
+										<width>100</width>
+										<height>30</height>
+										<font>Light20</font>
+										<align>left</align>
+										<aligny>center</aligny>
+										<textcolor>white</textcolor>
+										<selectedcolor>white</selectedcolor>
+										<label>$INFO[ListItem.Property(rottentomatoes),,%]</label>
+									</control>
+									<animation effect="fade" start="0" end="100" time="500">Visible</animation>
+								</control>
+								
+								<!-- metacritic -->
+								<control type="group">
+									<left>96</left>
+									<visible>!String.IsEmpty(ListItem.Property(metacritic))</visible>
+									<control type="image">
+										<left>0</left>
+										<top>0</top>
+										<width>40</width>
+										<height>30</height>
+										<aspectratio>keep</aspectratio>
+										<texture>flagging/ratings/metacritic.png</texture>
+									</control>
+									<control type="label">
+										<left>38</left>
+										<top>0</top>
+										<width>100</width>
+										<height>30</height>
+										<font>Light20</font>
+										<align>left</align>
+										<aligny>center</aligny>
+										<textcolor>white</textcolor>
+										<selectedcolor>white</selectedcolor>
+										<label>$INFO[ListItem.Property(metacritic),,%]</label>
+									</control>
+									<animation effect="slide" start="0,0" end="-92,0" time="0" condition="String.IsEmpty(ListItem.Property(rottentomatoes))">Conditional</animation>
+									<animation effect="fade" start="0" end="100" time="500">Visible</animation>
+								</control>
+								
+								<!-- imdb -->
+								<control type="group">
+									<left>188</left>
+									<visible>!String.IsEmpty(ListItem.Property(imdb))</visible>
+									<control type="image">
+										<left>0</left>
+										<top>0</top>
+										<width>40</width>
+										<height>30</height>
+										<aspectratio>keep</aspectratio>
+										<texture>flagging/ratings/imdb.png</texture>
+									</control>
+									<control type="label">
+										<left>40</left>
+										<top>0</top>
+										<width>100</width>
+										<height>30</height>
+										<font>Light20</font>
+										<align>left</align>
+										<aligny>center</aligny>
+										<textcolor>white</textcolor>
+										<selectedcolor>white</selectedcolor>
+										<label>$INFO[ListItem.Property(imdb),,%]</label>
+									</control>
+									<animation effect="slide" start="0,0" end="-92,0" time="0" condition="![String.IsEmpty(ListItem.Property(rottentomatoes)) + String.IsEmpty(ListItem.Property(metacritic))] + [String.IsEmpty(ListItem.Property(rottentomatoes)) | String.IsEmpty(ListItem.Property(metacritic))]">Conditional</animation>
+									<animation effect="slide" start="0,0" end="-186,0" time="0" condition="String.IsEmpty(ListItem.Property(rottentomatoes)) + String.IsEmpty(ListItem.Property(metacritic))">Conditional</animation>
+									<animation effect="fade" start="0" end="100" time="500">Visible</animation>
+								</control>
+								
+							</control>
+							
+							
+							
+						</focusedlayout>
+						<content>
+							<!--
+							<item>
+								<label>$LOCALIZE[21442]:</label>
+								<label2>$INFO[ListItem.EpisodeName]</label2>
+								<onclick>noop</onclick>
+								<visible>!String.IsEmpty(ListItem.EpisodeName)</visible>
+							</item>
+							-->
+							<item>
+								<label>$LOCALIZE[20373]:</label>
+								<label2>$INFO[ListItem.Season]</label2>
+								<onclick>noop</onclick>
+								<visible>!String.IsEmpty(ListItem.Season)</visible>
+							</item>
+							<item>
+								<label>$LOCALIZE[20359]:</label>
+								<label2>$INFO[ListItem.Episode]</label2>
+								<onclick>noop</onclick>
+								<visible>!String.IsEmpty(ListItem.Episode)</visible>
+							</item>
+							<!--
+							<item>
+								<label>$LOCALIZE[19148]:</label>
+								<label2>$INFO[ListItem.ChannelName]</label2>
+								<onclick>noop</onclick>
+							</item>
+							-->
+							<item>
+								<label>$LOCALIZE[142]</label>
+								<label2>$INFO[ListItem.StartTime] - $INFO[ListItem.EndTime]</label2>
+								<onclick>noop</onclick>
+							</item>
+							<item>
+								<label>$LOCALIZE[552]</label>
+								<label2>$INFO[ListItem.StartDate]</label2>
+								<onclick>noop</onclick>
+							</item>
+							<item>
+								<label>$LOCALIZE[180]:</label>
+								<label2>$INFO[ListItem.Duration]</label2>
+								<onclick>noop</onclick>
+							</item>
+							<item>
+								<label>$LOCALIZE[515]:</label>
+								<label2>$INFO[ListItem.Genre]</label2>
+								<onclick>noop</onclick>
+							</item>
+							<item>
+								<label>$LOCALIZE[20417]:</label>
+								<label2>$INFO[ListItem.Writer]</label2>
+								<onclick>noop</onclick>
+								<visible>!String.IsEmpty(ListItem.Writer)</visible>
+							</item>
+							<item>
+								<label>$LOCALIZE[20339]:</label>
+								<label2>$INFO[ListItem.Director]</label2>
+								<onclick>noop</onclick>
+								<visible>!String.IsEmpty(ListItem.Director)</visible>
+							</item>
+							<item>
+								<label>$LOCALIZE[206]:</label>
+								<label2>$INFO[ListItem.Cast]</label2>
+								<onclick>noop</onclick>
+								<visible>!String.IsEmpty(ListItem.Cast)</visible>
+							</item>
+						</content>
+					</control>
+				</control>
+				
+				
+				
+				
+				
+				
+				
+				<control type="scrollbar" id="80">
+					<left>752</left>
+					<top>92</top>
+					<width>20</width>
+					<height>166</height>
+					<texturesliderbackground border="10">scrollbars/ScrollBarUni-bg.png</texturesliderbackground>
+					<texturesliderbar border="10">scrollbars/ScrollBarUni-bar.png</texturesliderbar>
+					<texturesliderbarfocus border="10">scrollbars/ScrollBarUni-bar-focus.png</texturesliderbarfocus>
+					<textureslidernib>scrollbars/ScrollBarUni-nib.png</textureslidernib>
+					<textureslidernibfocus>scrollbars/ScrollBarUni-nib.png</textureslidernibfocus>
+					<showonepage>false</showonepage>
+					<orientation>vertical</orientation>
+					<visible>Control.HasFocus(49)</visible>
+					<animation effect="fade" start="100" end="50" time="0" condition="true">Conditional</animation>
+					<enable>false</enable>
+					<include>VisibleFadeEffect</include>
+				</control>
+				
+				
+				
+				
+				
+				<control type="button" id="499">
+					<description>Plot Text Viewer button</description>
+					<left>28</left>
+					<top>395</top>
+					<width>696</width>
+					<height>256</height>
+					<visible>!Control.IsVisible(50)</visible>
+					<texturefocus border="4">button-focus-nobase.png</texturefocus>
+					<texturenofocus border="4"></texturenofocus>
+					
+					<onclick condition="!String.IsEmpty(ListItem.Plot)">SetProperty(TextViewer_Header,$ESCINFO[ListItem.Title],home)</onclick>
+					<onclick condition="!String.IsEmpty(ListItem.Plot) + !String.IsEqual(ListItem.EpisodeName,ListItem.Plot)">SetProperty(TextViewer_Text_Pre,$ESCINFO[ListItem.EpisodeName,,[CR]],home)</onclick>
+					<onclick condition="!String.IsEmpty(ListItem.Plot) + String.IsEqual(ListItem.EpisodeName,ListItem.Plot)">ClearProperty(TextViewer_Text_Pre,home)</onclick>
+					<onclick condition="!String.IsEmpty(ListItem.Plot)">SetProperty(TextViewer_Text,$ESCINFO[ListItem.Plot],home)</onclick>
+					
+					<onclick condition="!String.IsEmpty(ListItem.Plot) + Window.IsVisible(tvrecordings)">SetFocus(8)</onclick>
+					<onclick condition="!String.IsEmpty(ListItem.Plot) + !Window.IsVisible(tvrecordings)">SetFocus(888)</onclick>
+					
+					<onclick condition="!String.IsEmpty(ListItem.Plot)">ActivateWindow(1102)</onclick>
+					
+					<visible>!String.IsEmpty(ListItem.Plot)</visible>
+					<onup>9000</onup>
+				</control>
+				
+				<control type="group">
+					<animation effect="fade" start="0" end="100" time="1500" delay="0">WindowOpen</animation>
+					
+					<control type="label">
+						<description>...</description>
+						<left>36</left>
+						<top>534</top><!--520 before lineheight+ -->
+						<width>100</width>
+						<height>40</height>
+						
+						<font>Light20</font>
+						<align>left</align>
+						<textcolor>white</textcolor>
+						<label>...</label>
+						
+						<visible>!Control.IsVisible(50) + !Control.HasFocus(499)</visible>
+						
+					</control>
+					
+					<control type="textbox">
+						<description>Plot Text</description>
+						<left>36</left>
+						<top>400</top>
+						<width>682</width>
+						<height>134</height><!--120 before lineheight+ -->
+						
+						<font>Light20+</font>
+						<align>left</align>
+						<textcolor>white</textcolor>
+						<pagecontrol></pagecontrol>
+						<label>$VAR[PVRPlotText]</label>
+						
+						<visible>!Control.IsVisible(50) + !Control.HasFocus(499)</visible>
+						
+						<animation effect="fade" start="0" end="99" time="0" condition="true">Conditional</animation>
+					</control>
+					
+					<control type="textbox">
+						<description>Plot Text</description>
+						<left>36</left>
+						<top>400</top>
+						<width>682</width>
+						<height>244</height>
+						
+						<font>Light20+</font>
+						<align>left</align>
+						<textcolor>white</textcolor>
+						<pagecontrol></pagecontrol>
+						<label>$VAR[PVRPlotText]</label>
+						
+						<autoscroll time="2000" delay="10000" repeat="10000">Skin.HasSetting(AutoScroll)</autoscroll>
+						
+						<visible>!Control.IsVisible(50) + Control.HasFocus(499)</visible>
+					</control>
+				
+				</control>
+				
+
+				
+				
+				<control type="grouplist" id="9000">
+					<left>36</left>
+					<top>336</top>
+					<width>740</width>
+					<height>120</height>
+					<itemgap>2</itemgap>
+					<align>left</align>
+					<orientation>horizontal</orientation>
+					<onleft>9000</onleft>
+					<onright>9000</onright>
+					<onup>49</onup>
+					<ondown condition="Control.IsVisible(50)">50</ondown>
+					<ondown condition="!Control.IsVisible(50)">499</ondown>
+					
+					
+					
+					<control type="radiobutton" id="888">
+						<description>Close Info</description>
+						<width>144</width>
+						<height>50</height>
+						<label>$LOCALIZE[15067]</label>
+						<onclick>Dialog.Close(all,true)</onclick>
+						<visible>!Window.IsVisible(tvrecordings)</visible>
+						
+						<textureradiooffnofocus>_added_img/icon_close.png</textureradiooffnofocus>
+						<textureradioofffocus>_added_img/icon_close.png</textureradioofffocus>
+						
+						<textureradioonnofocus>_added_img/icon_close.png</textureradioonnofocus>
+						<textureradioonfocus>_added_img/icon_close.png</textureradioonfocus>
+						
+						<textureradiooffdisabled></textureradiooffdisabled>
+						<textureradioondisabled></textureradioondisabled>
+						
+						<include condition="String.Contains(System.Language,English)">PlayButtonEnglishStyle</include>
+						<radioposx>16</radioposx>
+						<radioposy>12</radioposy>
+						
+						<align>left</align>
+						
+						<textoffsetx>48</textoffsetx>
+						<textwidth>92</textwidth>
+						
+						<radiowidth>28</radiowidth>
+						<radioheight>28</radioheight>
+						
+						<include>ButtonInfoDialogsCommonValues</include>
+						
+					</control>
+					
+					<control type="button" id="5">
+						<description>Switch to Channel</description>
+						<width>144</width>
+						<height>50</height>
+						<include>ButtonInfoDialogsCommonValues</include>
+						<label>19165</label>
+						<visible>Window.IsVisible(PVRGuideInfo)</visible>
+					</control>
+					<control type="button" id="4">
+						<description>Find similar</description>
+						<width>144</width>
+						<height>50</height>
+						<include>ButtonInfoDialogsCommonValues</include>
+						<label>19003</label>
+						<visible>Window.IsVisible(PVRGuideInfo)</visible>
+					</control>
+					<control type="button" id="8">
+						<description>Play recording</description>
+						<width>144</width>
+						<height>50</height>
+						<include>ButtonInfoDialogsCommonValues</include>
+						<label>19687</label>
+						<visible>Window.IsVisible(PVRGuideInfo) | Window.IsVisible(PVRRecordingInfo)</visible>
+					</control>
+					<control type="button" id="6">
+						<description>Record</description>
+						<width>144</width>
+						<height>50</height>
+						<include>ButtonInfoDialogsCommonValues</include>
+						<label></label>
+						<visible>Window.IsVisible(PVRGuideInfo)</visible>
+					</control>
+					<!--
+					<control type="button" id="7">
+						<description>OK</description>
+						<width>144</width>
+						<height>50</height>
+						<include>ButtonInfoDialogsCommonValues</include>
+						<label>186</label>
+					</control>
+					-->
+					<control type="button" id="9">
+						<description>Timer</description>
+						<width>144</width>
+						<height>50</height>
+						<include>ButtonInfoDialogsCommonValues</include>
+						<label>19061</label>
+						<visible>!Window.IsVisible(PVRRecordingInfo)</visible>
+					</control>
+					<control type="button" id="99">
+						<description>Dummy</description>
+						<width>10</width>
+						<height>50</height>
+						<include>ButtonInfoDialogsCommonValues</include>
+						<label></label>
+						<enable>false</enable>
+						<animation effect="fade" end="0" time="0" condition="true">Conditional</animation>
+					</control>
+					
+
+					
+					
+				</control>
+
+				
+				
+				
+			</control>
+			
+			
+			
+			
+			
+		</control>
+	</controls>
+</window>

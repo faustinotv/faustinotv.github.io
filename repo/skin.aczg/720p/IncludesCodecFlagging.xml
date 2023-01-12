@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+	
+	<include name="VideoCodecFlaggingConditions">
+		<control type="image">
+			<description>Video rez Image</description>
+			<width>62</width>
+			<height>36</height>
+			<aspectratio align="left">keep</aspectratio>
+			<texture>$INFO[ListItem.VideoResolution,flagging/video/,.png]</texture>
+			<visible>!String.IsEmpty(ListItem.VideoResolution)</visible>
+		</control>
+		<control type="image">
+			<description>Codec Image</description>
+			<width>76</width>
+			<height>36</height>
+			<aspectratio align="left">keep</aspectratio>
+			<texture>$VAR[videocodec,flagging/video/,.png]</texture>
+			<visible>!String.IsEmpty(ListItem.VideoCodec)</visible>
+		</control>
+	</include>
+	
+	<include name="VideoCodecFlaggingConditionsResOnly">
+		<control type="image">
+			<description>Video rez Image</description>
+			<width>62</width>
+			<height>36</height>
+			<aspectratio align="left">keep</aspectratio>
+			<texture>$INFO[ListItem.VideoResolution,flagging/video/,.png]</texture>
+			<visible>!String.IsEmpty(ListItem.VideoResolution)</visible>
+		</control>
+	</include>
+	
+	<include name="VideoStereoscopicsFlaggingConditions">
+		<control type="image">
+			<description>Video stereoscopics flagging image</description>
+			<width>48</width>
+			<height>36</height>
+			<aspectratio align="left">keep</aspectratio>
+			<texture>flagging/video/3D.png</texture>
+			<visible>ListItem.IsStereoscopic</visible>
+		</control>
+	</include>
+	
+	<!--
+	<include name="VideoTypeHackFlaggingConditions">
+		<control type="image">
+			<description>Video Type Image</description>
+			<width>80</width>
+			<height>36</height>
+			<aspectratio align="left">keep</aspectratio>
+			<texture>$VAR[typehackflagging,flagging/video/,.png]</texture>
+			<visible>!Skin.HasSetting(HideFilenameFlagging)</visible>
+		</control>
+	</include>
+	-->
+	<include name="VideoMPAAFlaggingConditions">
+		<control type="group">
+			<width>76</width>
+			<height>36</height>
+			<control type="image">
+				<left>0</left>
+				<top>0</top>
+				<width>76</width>
+				<height>36</height>
+				<aspectratio>scale</aspectratio>
+				<texture>flagging/blank.png</texture>
+				<visible>!String.IsEmpty(ListItem.Mpaa)</visible>
+			</control>
+			<control type="image">
+				<description>Rating image</description>
+				<width>76</width>
+				<height>36</height>
+				<aspectratio align="left">keep</aspectratio>
+				<texture>$VAR[rating,flagging/ratings/,.png]</texture>
+				<visible>!String.IsEmpty(ListItem.Mpaa)</visible>
+			</control>
+			<visible>!String.IsEmpty(ListItem.Mpaa)</visible>
+		</control>
+	</include>
+	<include name="AudioCodecFlaggingConditions">
+		<control type="image">
+			<description>Audio Codec Image</description>
+			<width>76</width>
+			<height>36</height>
+			<aspectratio align="left">keep</aspectratio>
+			<texture>$INFO[ListItem.AudioCodec,flagging/audio/,.png]</texture>
+			<visible>!String.IsEmpty(ListItem.AudioCodec)</visible>
+		</control>
+	</include>
+	<include name="AudioChannelsFlaggingConditions">
+		<control type="image">
+			<description>Audio Codec Image</description>
+			<width>48</width>
+			<height>36</height>
+			<aspectratio align="left">keep</aspectratio>
+			<texture>$INFO[ListItem.AudioChannels,flagging/audio/,.png]</texture>
+			<visible>!String.IsEmpty(ListItem.AudioChannels)</visible>
+		</control>
+	</include>
+	<include name="AspectCodecFlaggingConditions">
+		<control type="image">
+			<description>Aspectratio Image</description>
+			<width>48</width>
+			<height>36</height>
+			<aspectratio align="left">keep</aspectratio>
+			<texture>$INFO[ListItem.VideoAspect,flagging/aspectratio/,.png]</texture>
+		</control>
+	</include>
+	
+	
+	
+	<include name="VideoRatingStars">
+		<control type="group">
+				<width>136</width>
+				<height>36</height>
+				<control type="image">
+					<width>120</width>
+					<height>36</height>
+					<left>8</left>
+					<top>0</top>
+					
+					
+					<aspectratio align="left">keep</aspectratio>
+					<texture>flagging/ratingstars/starsshadow.png</texture>
+					<!--
+					<aspectratio>scale</aspectratio>
+					<texture>flagging/blank.png</texture>
+					-->
+					<visible>[String.Contains(ListItem.rating,.) 
+										| 
+										[String.IsEqual(ListItem.DBID,Window(Home).Property(ListItemHelper.DBID)) 
+											+ !String.Empty(Window(Home).Property(ListItemHelper.rating.highestScaleTo10))]
+										] 
+										+ !Skin.HasSetting(HideVideoRatings)</visible>
+					<fadetime>400</fadetime>
+				</control>
+				<control type="image">
+					<description>Rating stars</description>
+					<width>120</width>
+					<height>36</height>
+					<left>8</left>
+					<top>0</top>
+					<aspectratio align="left">keep</aspectratio>
+					<texture>$VAR[ratingstars,flagging/ratingstars/stars,.png]</texture>
+					<visible>[String.Contains(ListItem.rating,.) 
+										| 
+										[String.IsEqual(ListItem.DBID,Window(Home).Property(ListItemHelper.DBID)) 
+											+ !String.Empty(Window(Home).Property(ListItemHelper.rating.highestScaleTo10))]
+										] 
+										+ !Skin.HasSetting(HideVideoRatings)</visible>
+					<fadetime>400</fadetime>
+				</control>
+				<visible>[String.Contains(ListItem.rating,.) 
+								| 
+								[String.IsEqual(ListItem.DBID,Window(Home).Property(ListItemHelper.DBID)) 
+									+ !String.Empty(Window(Home).Property(ListItemHelper.rating.highestScaleTo10))]
+								] 
+								+ !Skin.HasSetting(HideVideoRatings)</visible>
+		</control>
+	</include>
+	
+	<include name="StingerIcon">
+		<control type="image">
+			<description>Stinger icon</description>
+			<width>36</width>
+			<height>36</height>
+			<aspectratio aligny="bottom">keep</aspectratio>
+			<texture background="true">_added_img/stinger_scene.png</texture>
+			<visible>!String.IsEmpty(ListItem.Tag) + [String.Contains(ListItem.Tag,aftercreditsstinger) | String.Contains(ListItem.Tag,duringcreditsstinger)]</visible>
+			<animation effect="fade" end="100" time="0" condition="true">Conditional</animation>
+		</control>
+	</include>
+	
+	<include name="FlaggingConditionsPlaceholder">
+		<control type="group">
+				<description>placeholder</description>
+				<width>12</width>
+				<height>36</height>
+			</control>
+	</include>
+	
+	
+	
+</includes>

@@ -5,8 +5,10 @@
 <import addon="script.module.kodi-six"/>
 <import addon="script.module.requests" optional="true"/>
 <import addon="script.module.resolveurl" optional="true"/>
-<import addon="inputstream.ffmpegdirect" version="19.0.3"/>
-<import addon="script.module.inputstreamhelper" optional="true"/>/>
+<import addon="inputstream.ffmpegdirect" minversion="1.19.0"/>
+<import addon="inputstream.adaptive" minversion="2.6.6"/>
+<import addon="inputstream.rtmp" minversion="3.4.0"/>
+<import addon="script.module.inputstreamhelper" optional="true"/>
 </requires>  
 <extension point="xbmc.python.pluginsource" library="default.py">
 	<provides>video</provides>

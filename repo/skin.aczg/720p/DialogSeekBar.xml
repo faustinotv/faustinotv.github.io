@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	
+	<zorder>0</zorder>
+	
+	<defaultcontrol>1</defaultcontrol>
+	<visible>!Player.HasGame + !Window.IsVisible(SliderDialog) 
+						
+						
+						+
+						[
+								[
+									Player.HasMedia + Player.HasVideo + !Player.HasAudio
+									+ String.IsEmpty(Window(home).Property(PlayBackJustStarted)) 
+									+ String.IsEmpty(Window(home).Property(PlayBackJustEnded))
+								]
+							| 
+								[
+								Player.HasMedia + !Player.HasVideo + Player.HasAudio
+								]
+						]
+						
+
+						
+						
+						
+						+ [Player.HasMedia + [Player.HasVideo | Player.HasAudio]]
+						
+						+ [Player.ShowInfo | Window.IsActive(VideoOSD) | Window.IsActive(MusicOSD) | Player.Seeking | Player.DisplayAfterSeek | Player.HasPerformedSeek(2) | [Player.Paused + !Skin.HasSetting(NoInfoOsdOnPause) + Player.HasVideo] | [Player.Paused + [!Player.HasVideo + Player.HasAudio]] | [Player.Paused + Skin.HasSetting(NoInfoOsdOnPause) + !Window.IsVisible(FullScreenVideo) + !Window.IsVisible(VideoOSD)] | Player.Forwarding | Player.Rewinding | Player.ShowTime | Player.IsTempo] 
+						
+						+ !Window.IsActive(MovieInformation)</visible>
+	<animation effect="fade" end="100" time="500">WindowOpen</animation>
+	<animation effect="fade" end="0" time="500" delay="1500">WindowClose</animation>
+	<depth>DepthOSD</depth>
+	<controls>
+		
+		
+		
+		
+		
+		
+		
+		
+		<control type="group">
+			<visible>!Window.IsVisible(FullscreenVideo) + !Window.IsVisible(Visualisation)</visible>
+			
+			<control type="group">
+				<left>330</left>
+				<top>-6</top>
+				<control type="group">
+					<left>260</left>
+					<top>11</top>
+					<control type="image">
+						<left>2</left>
+						<top>3</top>
+						<width>20</width>
+						<height>46</height>
+						<texture>OSDSeekRewind.png</texture>
+						<visible>Player.Rewinding | [Player.IsTempo + String.StartsWith(Player.PlaySpeed,0.)]</visible>
+					</control>
+					<control type="image">
+						<left>79</left>
+						<top>3</top>
+						<width>20</width>
+						<height>46</height>
+						<texture>OSDSeekForward.png</texture>
+						<visible>Player.Forwarding | [Player.IsTempo + String.StartsWith(Player.PlaySpeed,1.)]</visible>
+					</control>
+					<control type="image">
+						<left>28</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSDPause.png</texture>
+						<visible>Player.Paused</visible>
+					</control>
+					<control type="image">
+						<left>25</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD2x.png</texture>
+						<visible>Player.Rewinding2x</visible>
+					</control>
+					<control type="image">
+						<left>25</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD0.9x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,0.90)</visible>
+					</control>
+					<control type="image">
+						<left>22</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD4x.png</texture>
+						<visible>Player.Rewinding4x</visible>
+					</control>
+					<control type="image">
+						<left>22</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD0.8x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,0.80)</visible>
+					</control>
+					<control type="image">
+						<left>19</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD8x.png</texture>
+						<visible>Player.Rewinding8x</visible>
+					</control>
+					<control type="image">
+						<left>16</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD16x.png</texture>
+						<visible>Player.Rewinding16x</visible>
+					</control>
+					<control type="image">
+						<left>13</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD32x.png</texture>
+						<visible>Player.Rewinding32x</visible>
+					</control>
+					<control type="image">
+						<left>31</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD2x.png</texture>
+						<visible>Player.Forwarding2x</visible>
+					</control>
+					<control type="image">
+						<left>31</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.1x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.10)</visible>
+					</control>
+					<control type="image">
+						<left>34</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD4x.png</texture>
+						<visible>Player.Forwarding4x</visible>
+					</control>
+					<control type="image">
+						<left>34</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.2x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.20)</visible>
+					</control>
+					<control type="image">
+						<left>37</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD8x.png</texture>
+						<visible>Player.Forwarding8x</visible>
+					</control>
+					<control type="image">
+						<left>37</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.3x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.30)</visible>
+					</control>
+					<control type="image">
+						<left>40</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD16x.png</texture>
+						<visible>Player.Forwarding16x</visible>
+					</control>
+					<control type="image">
+						<left>40</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.4x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.40)</visible>
+					</control>
+					<control type="image">
+						<left>43</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD32x.png</texture>
+						<visible>Player.Forwarding32x</visible>
+					</control>
+					<control type="image">
+						<left>43</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.5x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.50)</visible>
+					</control>
+				</control>
+			</control>
+		</control>
+		
+		
+		
+		
+		
+		
+		
+		
+		<control type="group">
+			<visible>Window.IsVisible(FullscreenVideo) | Window.IsVisible(Visualisation)</visible>
+			<left>338</left>
+			<top>126r</top>
+				
+			<control type="group">	
+				<visible>!Window.IsVisible(SliderDialog)</visible>
+				<animation effect="fade" time="0">Visible</animation>
+				<animation effect="fade" time="350">Hidden</animation>
+				
+				<control type="group">
+					<left>252</left>
+					<top>-300</top>
+					
+					<control type="image">
+						<left>2</left>
+						<top>3</top>
+						<width>20</width>
+						<height>46</height>
+						<texture>OSDSeekRewind.png</texture>
+						<visible>Player.Rewinding | [Player.IsTempo + String.StartsWith(Player.PlaySpeed,0.)]</visible>
+					</control>
+					<control type="image">
+						<left>79</left>
+						<top>3</top>
+						<width>20</width>
+						<height>46</height>
+						<texture>OSDSeekForward.png</texture>
+						<visible>Player.Forwarding | [Player.IsTempo + String.StartsWith(Player.PlaySpeed,1.)]</visible>
+					</control>
+					
+					<control type="image">
+						<left>28</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSDPause.png</texture>
+						<visible>Player.Paused + [!Skin.HasSetting(NoInfoOsdOnPause) | [!Player.HasVideo + Player.HasAudio]]</visible>
+					</control>
+					
+					<control type="image">
+						<left>25</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD2x.png</texture>
+						<visible>Player.Rewinding2x</visible>
+					</control>
+					<control type="image">
+						<left>25</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD0.9x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,0.90)</visible>
+					</control>
+					<control type="image">
+						<left>22</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD4x.png</texture>
+						<visible>Player.Rewinding4x</visible>
+					</control>
+					<control type="image">
+						<left>22</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD0.8x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,0.80)</visible>
+					</control>
+					<control type="image">
+						<left>19</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD8x.png</texture>
+						<visible>Player.Rewinding8x</visible>
+					</control>
+					<control type="image">
+						<left>16</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD16x.png</texture>
+						<visible>Player.Rewinding16x</visible>
+					</control>
+					<control type="image">
+						<left>13</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD32x.png</texture>
+						<visible>Player.Rewinding32x</visible>
+					</control>
+					
+					<control type="image">
+						<left>31</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD2x.png</texture>
+						<visible>Player.Forwarding2x</visible>
+					</control>
+					<control type="image">
+						<left>31</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.1x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.10)</visible>
+					</control>
+					<control type="image">
+						<left>34</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD4x.png</texture>
+						<visible>Player.Forwarding4x</visible>
+					</control>
+					<control type="image">
+						<left>34</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.2x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.20)</visible>
+					</control>
+					<control type="image">
+						<left>37</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD8x.png</texture>
+						<visible>Player.Forwarding8x</visible>
+					</control>
+					<control type="image">
+						<left>37</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.3x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.30)</visible>
+					</control>
+					<control type="image">
+						<left>40</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD16x.png</texture>
+						<visible>Player.Forwarding16x</visible>
+					</control>
+					<control type="image">
+						<left>40</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.4x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.40)</visible>
+					</control>
+					<control type="image">
+						<left>43</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD32x.png</texture>
+						<visible>Player.Forwarding32x</visible>
+					</control>
+					<control type="image">
+						<left>43</left>
+						<top>4</top>
+						<width>44</width>
+						<height>44</height>
+						<texture>OSD1.5x.png</texture>
+						<visible>String.IsEqual(Player.PlaySpeed,1.50)</visible>
+					</control>
+				</control>
+				
+				<!-- Player ABSOLUTE TIME -->
+				<control type="label">
+					<description>Elapsed Time Label</description>
+					<left>2</left>
+					<top>0</top>
+					<width>100</width>
+					<height>40</height>
+					<font>Light20</font>
+					<align>left</align>
+					<aligny>center</aligny>
+					<label>$INFO[Player.Time(hh:mm:ss)]</label>
+					<visible>!Player.Seeking + !VideoPlayer.Content(LiveTV)</visible>
+				</control>
+				<control type="label">
+					<description>Elapsed Time Label</description>
+					<left>2</left>
+					<top>0</top>
+					<width>100</width>
+					<height>40</height>
+					<font>Light20</font>
+					<align>left</align>
+					<aligny>center</aligny>
+					<label>$INFO[Player.StartTime(hh:mm)]</label>
+					<visible>!Player.Seeking + VideoPlayer.Content(LiveTV) + VideoPlayer.HasEpg</visible>
+				</control>
+				<control type="label">
+					<description>Seek Time Label</description>
+					<left>2</left>
+					<top>0</top>
+					<width>100</width>
+					<height>40</height>
+					<font>Light20</font>
+					<align>left</align>
+					<aligny>center</aligny>
+					<label>$INFO[Player.SeekTime(hh:mm:ss)]</label>
+					<visible>Player.Seeking</visible>
+					<textcolor>blue</textcolor>
+				</control>
+				
+				<!-- Progress Bar + Cache -->
+				<control type="progress">
+					<description>ProgressbarCache</description>
+					<left>100</left>
+					<top>14</top>
+					<width>676</width><!-- 720 -->
+					<height>16</height>
+					<info>Player.ProgressCache</info>
+					<midtexture border="4,0,4,0">OSDProgressMidLight.png</midtexture>
+					<visible>!VideoPlayer.Content(LiveTV) | [VideoPlayer.Content(LiveTV) + VideoPlayer.HasEpg]</visible>
+				</control>
+				<control type="progress" id="23">
+					<description>Progressbar</description>
+					<left>100</left>
+					<top>14</top>
+					<width>676</width><!-- 720 -->
+					<height>16</height>
+					<info>Player.Progress</info>
+					<visible>!VideoPlayer.Content(LiveTV) | [VideoPlayer.Content(LiveTV) + VideoPlayer.HasEpg]</visible>
+				</control>
+				
+				<!-- Seek Slider -->
+				<control type="slider" id="401">
+					<description>Seek Slider</description>
+					<left>100</left>
+					<top>12</top>
+					<width>676</width><!-- 720 -->
+					<height>12</height>
+					<texturesliderbar>seekslider.png</texturesliderbar>
+					<textureslidernib>osd_slider_nib.png</textureslidernib>
+					<textureslidernibfocus>osd_slider_nib.png</textureslidernibfocus>
+					<visible>Player.Seeking</visible>
+				</control>
+				
+				
+				
+				
+			</control>
+		</control>
+		
+		
+		
+	</controls>
+</window>

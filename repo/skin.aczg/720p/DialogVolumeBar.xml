@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol>1</defaultcontrol>
+	<!--
+	<animation effect="slide" start="0,-40" end="0,0" time="75">WindowOpen</animation>
+	<animation effect="slide" start="0,0" end="0,-40" delay="300" time="75">WindowClose</animation>
+	-->
+	<animation effect="fade" start="0" end="100" time="150">WindowOpen</animation>
+	<animation effect="fade" start="100" end="0" time="150">WindowClose</animation>
+	<controls>
+		<control type="group">
+			<depth>DepthOSD</depth>
+			<left>820</left>
+			<top>0</top>
+			<include>VisibleFadeEffect</include>
+			<visible>!Player.Muted</visible>
+			<control type="image">
+				<left>4</left>
+				<top>-10</top>
+				<width>296</width>
+				<height>50</height>
+				<texture>_added_img/100x100_black.png</texture>
+				<animation effect="fade" start="0" end="93" time="0" condition="true">Conditional</animation>
+			</control>
+			<control type="group">
+				<visible>!player.passthrough</visible>
+				<control type="image">
+					<description>Lite Volume Logo</description>
+					<left>12</left>
+					<top>2</top>
+					<width>36</width>
+					<height>36</height>
+					<aspectratio>keep</aspectratio>
+					<texture>VolumeIcon.png</texture>
+				</control>
+				<control type="progress" id="1">
+					<description>progress control</description>
+					<left>48</left>
+					<top>10</top>
+					<width>236</width>
+					<height>20</height>
+					<info>Player.Volume</info>
+					<texturebg border="6,0,6,0">OSDProgressBack_8x8.png</texturebg>
+					<midtexture border="6,0,6,0">OSDProgressMid_8x8.png</midtexture>
+				</control>
+			</control>
+			<control type="group">
+				<visible>player.passthrough</visible>
+				<control type="image">
+					<description>Lite Volume Logo</description>
+					<left>12</left>
+					<top>2</top>
+					<width>36</width>
+					<height>36</height>
+					<aspectratio>keep</aspectratio>
+					<colordiffuse>CCFF0000</colordiffuse>
+					<texture>VolumeIcon.png</texture>
+				</control>
+				<control type="label">
+					<description>Passthrough Label</description>
+					<left>50</left>
+					<top>6</top>
+					<width>230</width>
+					<height>20</height>
+					<label>$LOCALIZE[29802]</label>
+					<font>Bold12</font>
+					<textcolor>white</textcolor>
+					<!--<shadowcolor>black</shadowcolor>-->
+					<align>left</align>
+					<aligny>center</aligny>
+				</control>
+			</control>
+		</control>
+		<control type="image">
+			<left>48r</left>
+			<top>4</top>
+			<width>44</width>
+			<height>44</height>
+			<aspectratio>keep</aspectratio>
+			<texture>icon-mute.png</texture>
+			<include>VisibleFadeEffect</include>
+			<visible>Player.Muted</visible>
+			<animation effect="slide" start="0,0" end="0,36" time="0" condition="
+				[[System.GetBool(input.enablemouse) + Skin.HasSetting(ShowMouseControlButtons)] | !String.IsEqual(Skin.String(HomeDateTimeType),2)]
+				+ 
+				[
+				[Window.IsVisible(MusicOSD) | Window.IsVisible(Visualisation)] 
+				| 
+				[Window.IsVisible(VideoOSD) | Window.IsVisible(FullscreenVideo)] 
+				]
+				">conditional</animation>
+		</control>
+	</controls>
+</window>
