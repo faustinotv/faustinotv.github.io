@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="pvr.faustinotv.simple"
+  id="pvr.iptvsimple"
   version="19.2.2"
-  name="FaustinoTV PVR Client"
+  name="FaustinoTV PVR Cliente for android-armv7"
   provider-name="tio jaime">
   <requires>
 <import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
@@ -16,7 +16,7 @@
   </requires>
   <extension
     point="kodi.pvrclient"
-    library_android="libpvr.faustinotv.so"/>
+    library_android="libpvr.iptvsimple.so"/>
   <extension point="xbmc.addon.metadata">
     <platform>android-armv7</platform>
     <license>GPL-2.0-or-later</license>
