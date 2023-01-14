@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.faustinotv.downloader" name="ONEPLAY VIP DOWNLOADER" version="1.0.2" provider-name="tio jaime">
+<addon id="script.faustinotv.downloader" name="FAUSTINOTV APK DOWNLOADER" version="1.0.20230114" provider-name="tio jaime">
     <requires>
         <import addon="script.module.six"/>
         <import addon="script.module.kodi-six"/>
@@ -17,8 +17,6 @@
             <icon>icon.png</icon>
             <fanart>fanart.png</fanart>
 			<screenshot>resources/images/01.jpg</screenshot>
-			<screenshot>resources/images/01.jpg</screenshot>
-			<screenshot>resources/images/01.png</screenshot>
         </assets>
     </extension>
 </addon>
