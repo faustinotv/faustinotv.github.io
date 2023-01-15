@@ -399,7 +399,7 @@ Full changelog here: https://github.com/xbmc/inputstream.ffmpegdirect/blob/Matri
 </extension>
 </addon>
 
-<addon id="plugin.video.faustinotvpremium.matrix" name="[B][COLOR cyan]FAUSTINO TV PREMIUM UHD[/B][/COLOR]" version="1.0.1.matrix.1" provider-name="tio jaime">
+<addon id="plugin.video.faustinotvpremium.matrix" name="[B][COLOR cyan]FAUSTINO TV PREMIUM UHD[/B][/COLOR]" version="1.0.2.matrix.1" provider-name="tio jaime">
     <requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.simplejson"/>
@@ -407,12 +407,6 @@ Full changelog here: https://github.com/xbmc/inputstream.ffmpegdirect/blob/Matri
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
     </extension>
-	<extension point="xbmc.addon.repository" name="[B]IPTV PREMIUM[/B]">
-		<info compressed="false">http://faustinotv.cloud/repo/zips/addons.xml</info>
-		<checksum>http://faustinotv.cloud/repo/zips/addons.xml.md5</checksum>
-		<datadir zip="true">http://faustinotv.cloud/repo/zips/</datadir>
-		<hashes>false</hashes>
-	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="pt_br">Cliente IPTV para painel Xtream Codes</summary>
 		<description lang="pt_br">Cliente para usuarios de IPTV do Xtream Codes</description>
