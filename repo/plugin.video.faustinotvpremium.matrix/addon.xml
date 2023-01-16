@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.faustinotvpremium.matrix" name="[B][COLOR red]FAUSTINO TV UHD[/B][/COLOR]" version="1.0.6.matrix.1" provider-name="[B][COLOR orange]tio jaime[/B][/COLOR]">
-  <extension point="xbmc.python.pluginsource"
-			library="default.py">
-		<provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-	<summary lang="en">[COLOR red]Exclusivo para clientes[/COLOR] </summary>
-	<language>en</language>
-	<description lang="en">[COLOR red]This addon does not supply nor provide any illegal content[/COLOR]</description>
-	<platform>all</platform>
-	<assets>
-		<icon>icon.png</icon>
-		<fanart>fanart.png</fanart>
-	</assets>
-  </extension>
-      <news>
-1.0.6
-- Correções de bugs
-    </news>
+<addon id="plugin.video.faustinotvpremium.matrix" name="[B][COLOR cyan]FAUSTINO TV PREMIUM UHD[/B][/COLOR]" version="1.0.2.matrix.1" provider-name="tio jaime"> 
+    <requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.simplejson"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="pt_br">Cliente IPTV para painel Xtream Codes</summary>
+		<description lang="pt_br">Cliente para usuarios de IPTV do Xtream Codes</description>
+		<disclaimer lang="pt_br">IPTV Premium não tem relação com a Kodi team</disclaimer>
+        <platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.png</fanart>
+		</assets>
+		<news>
+FAUSTINO TV PREMIUM UHD
+		</news>
+	</extension>
 </addon>
+
+
+
+
