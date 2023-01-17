@@ -399,29 +399,6 @@ Full changelog here: https://github.com/xbmc/inputstream.ffmpegdirect/blob/Matri
 </extension>
 </addon>
 
-<addon id="plugin.video.faustinotvpremium.matrix" name="[B][COLOR cyan]FAUSTINO TV PREMIUM UHD[/B][/COLOR]" version="1.0.2.matrix.1" provider-name="tio jaime">
-    <requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.simplejson"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="pt_br">Cliente IPTV para painel Xtream Codes</summary>
-		<description lang="pt_br">Cliente para usuarios de IPTV do Xtream Codes</description>
-		<disclaimer lang="pt_br">IPTV Premium não tem relação com a Kodi team</disclaimer>
-        <platform>all</platform>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.png</fanart>
-		</assets>
-		<news>
-FAUSTINO TV PREMIUM UHD
-		</news>
-	</extension>
-</addon>
-
 <addon
 		id="vkkodi.repo" name="[B][COLOR yellow]  Vikings  [COLOR orange]Repositorio Vikings Oficial, SEM BANIMENTO, agora compativel com Kodi Matrix!![/B][/COLOR]"
 		version="3.10"
