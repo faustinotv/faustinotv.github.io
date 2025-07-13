@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index of /</title>
+    <style>
+        body { font-family: monospace; }
+        a { text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Index of /</h1>
+    <pre><a href="../">../</a>
+{% for file in site.static_files %}
+<a href="{{ file.path }}">{{ file.name }}</a>{% unless forloop.last %}{% endunless %}
+{% endfor %}</pre>
+</body>
+</html>
